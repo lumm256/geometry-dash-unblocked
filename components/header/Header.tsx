@@ -11,9 +11,9 @@ import { CgClose } from "react-icons/cg";
 import { ThemedButton } from "../ThemedButton";
 
 const links = [
-  { label: "Features", href: "#Features" },
-  { label: "Pricing", href: "#Pricing" },
-  { label: "Testimonials", href: "#Testimonials" },
+  { label: "Instructions", href: "#Instructions" },
+  // { label: "Pricing", href: "#Pricing" },
+  // { label: "Testimonials", href: "#Testimonials" },
   { label: "FAQ", href: "#FAQ" },
 ];
 
@@ -29,8 +29,8 @@ const Header = () => {
         <div className="flex items-center md:gap-x-12 flex-1">
           <Link
             href="/"
-            aria-label="Landing Page Boilerplate"
-            title="Landing Page Boilerplate"
+            aria-label="geometry dash unblocked"
+            title="geometry dash unblocked"
             className="flex items-center space-x-1 font-bold"
           >
             <Image
@@ -86,8 +86,8 @@ const Header = () => {
                   <div>
                     <Link
                       href="/"
-                      aria-label="Landing Page Boilerplate"
-                      title="Landing Page Boilerplate"
+                      aria-label="geometry dash unblocked"
+                      title="geometry dash unblocked"
                       className="inline-flex items-center"
                     >
                       <Image
@@ -149,3 +149,4 @@ const Header = () => {
 };
 
 export default Header;
+

@@ -1,64 +1,54 @@
 export const FAQS_EN = [
   {
-    title: "What is a landing page?",
+    title: "1. Is Geometry Dash Unblocked free to play?",
     content:
-      "A landing page is a standalone web page created specifically for a marketing or advertising campaign. It's where a visitor 'lands' after they click on a link in an email, or ads from Google, Bing, YouTube, Facebook, Instagram, Twitter, or similar places on the web. Unlike web pages, which typically have many goals and encourage exploration, landing pages are designed with a single focus or goal, known as a call to action (CTA).",
+      "Yes, our Geometry Dash Unblocked version is completely free to play. You can enjoy the game without any cost, anytime and anywhere.",
   },
   {
-    title: "How can I create a landing page?",
+    title: "2. How does Geometry Dash Unblocked differ from the original game?",
     content:
-      "Creating a landing page can be done in several steps: 1) Choose a landing page template that fits your campaign's needs or start from scratch. 2) Identify your landing page's objective and CTA. 3) Write compelling content that urges visitors to take action. 4) Incorporate design elements such as images, videos, and forms that align with your message. 5) Test your page's usability and mobile responsiveness. 6) Use SEO best practices to help your page get found. 7) Publish your landing page and monitor its performance to make adjustments as needed.",
+      "Geometry Dash Unblocked offers the same exciting gameplay as the original, but it's accessible on restricted networks like school or work. We've optimized it for web browsers, ensuring smooth performance without the need for downloads or installations.",
   },
   {
-    title: "Why is a landing page important?",
+    title: "3. Is it safe to play Geometry Dash Unblocked on my school or work computer?",
     content:
-      "Landing pages are crucial for any marketing strategy because they provide a targeted platform for converting visitors into leads or customers. Unlike general websites, landing pages focus the visitor's attention on a single offer, minimizing distractions and guiding them towards a specific action. This focused approach can significantly increase the effectiveness of your marketing campaigns, improve your ad performance, and enhance the overall user experience by providing them with the information or solution they were seeking.",
+      "Our version is designed to be safe and secure. However, always make sure you're following your school or workplace's computer usage policies. We recommend using personal devices during free time to avoid any potential issues.",
   },
   {
-    title: "Why choose our landing page boilerplate?",
+    title: "4. Do I need to create an account to play?",
     content:
-      "Our landing page template is free, open-source, and powerful, making it ideal for various projects and marketing campaigns. It allows you to create a landing page in under an hour, simplifying the development process while also offering a high degree of customization and responsiveness.",
+      "No, you don't need to create an account to play Geometry Dash Unblocked. You can start playing immediately without any registration process.",
   },
   {
-    title: "What skills do I need to use this template?",
+    title: "5. Will my progress be saved when I play Geometry Dash Unblocked?",
     content:
-      "To use our landing page template, you only need basic web editing skills. The design of the template is intended to be easy for non-technical users to get started with, while also providing high customizability for experienced developers.",
+      "Progress saving depends on your browser settings. For the best experience, we recommend enabling cookies in your browser. This will allow the game to save your progress locally on your device.",
   },
   {
-    title: "How do I get started with the landing page template?",
+    title: "6. Can I play Geometry Dash Unblocked on mobile devices?",
     content:
-      "Getting started is very simple. Just download the source code from our GitHub repository, edit the text and images as needed, and then deploy it to your server.",
+      "Yes, our version is optimized for both desktop and mobile browsers. You can enjoy the game on your smartphone or tablet, as long as you have a stable internet connection.",
   },
   {
-    title: "Does the landing page template support responsive design?",
+    title: "7. Are all levels from the original Geometry Dash available in the unblocked version?",
     content:
-      "Yes, our landing page template supports responsive design, ensuring that your webpage displays perfectly on a variety of devices, whether desktop, tablet, or smartphone.",
+      "We strive to include as many levels as possible from the original game. However, due to technical limitations, some levels might not be available or might differ slightly from the original version.",
   },
   {
-    title: "Can I use this template for a commercial project?",
+    title: "8. How often is Geometry Dash Unblocked updated?",
     content:
-      "Absolutely. Our template is open-source, and you can use it for any type of project, including commercial purposes. We encourage users to utilize this template to create and optimize their online projects.",
+      "We aim to update our unblocked version regularly to fix bugs, improve performance, and occasionally add new content. Check our website frequently for the latest updates and improvements.",
   },
   {
-    title: "Do you offer any customization services?",
+    title: "9. What should I do if the game is not loading or if I encounter any issues?",
     content:
-      "We accept paid custom development of landing pages. Please contact us via email at weijunext@gmail.com or Twitter @weijunext.",
+      "If you're experiencing problems, try clearing your browser cache and cookies, or try a different browser. If issues persist, please contact our support team through the provided contact form on our website.",
   },
   {
-    title: "Are there any restrictions on using this template?",
+    title: "10. Is Geometry Dash Unblocked legal?",
     content:
-      "No. You are free to use and modify this template. At the same time, we encourage developers to submit PRs to help improve this landing page template together.",
-  },
-  {
-    title: "Does this template include SEO optimization features?",
-    content:
-      "Yes, our template includes basic SEO optimization features to help your webpage achieve better rankings in search engines.",
-  },
-  {
-    title: "What should I do if I encounter problems using the template?",
-    content:
-      "If you encounter any issues while using the template, please contact us via Twitter @weijunext.",
-  },
+      "Our version of Geometry Dash is designed for educational and entertainment purposes, especially for users in restricted network environments. However, we always recommend respecting copyright laws and supporting the original game developers when possible.",
+  }
 ];
 
 export const FAQS_ZH = [

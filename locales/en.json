@@ -1,16 +1,19 @@
 {
   "Hero": {
-    "title1": "Ship",
-    "title2": "Landing Page",
-    "title3": "Fast",
-    "description": "A free, open-source, and powerful landing page boilerplate, ideal for various projects, enabling you to create a landing page in under an hour."
+    "title1": "Geometry Dash",
+    "title2": "Unblocked",
+    "title3": "",
+    "description": "Geometry Dash Unblocked: Free online rhythm platformer. No downloads. Challenge levels, beat rhythms in-browser. Ad-free, unlimited fun. Play now!"
   },
   "SocialProof": {
     "maker": "makers ship fast"
   },
   "Showcase": {
     "title": "Showcase",
-    "description": "Join 1000+ Makers Boosting Conversions with Our Landing Page Boilerplate"
+    "description": "Join 1000+ Makers Boosting Conversions with Our geometry dash unblocked"
+  },
+  "Instructions": {
+    "title": "Instructions"
   },
   "Feature": {
     "title": "Features"
@@ -19,7 +22,7 @@
     "title": "Pricing",
     "title2": "Get unlimited access.",
     "description": "The page you are currently viewing is an open-source, free boilerplate.",
-    "doYouLike": "Do you like this landing page boilerplate?",
+    "doYouLike": "Do you like this geometry dash unblocked?",
     "follow": "Follow my Twitter."
   },
   "Testimonials": {
@@ -33,15 +36,15 @@
     "description": "Here are some of the most frequently asked questions."
   },
   "CTA": {
-    "title": "Build Your Landing Page Now",
-    "description1": "Build",
-    "description2": "your landing page,",
+    "title": "Enjoy Your Time Now",
+    "description1": "Enjoy",
+    "description2": "your time,",
     "description3": "show",
-    "description4": "your product, and",
-    "description5": "start earning",
+    "description4": "your scores, and",
+    "description5": "start sharing",
     "description6": "!"
   },
   "CTAButton": {
-    "title": "Get Boilerplate"
+    "title": "Play the game"
   }
 }

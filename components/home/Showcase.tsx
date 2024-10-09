@@ -33,3 +33,4 @@ const Showcase = async ({ id, locale }: { id: string; locale: any }) => {
 };
 
 export default Showcase;
+

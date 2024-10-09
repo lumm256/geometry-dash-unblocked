@@ -8,8 +8,8 @@ const ENV_SHOWCASE_LIST = NEXT_PUBLIC_SHOWCASE_LIST && NEXT_PUBLIC_SHOWCASE_LIST
 
 export const showcases = [
   {
-    // title: 'Landing Page Boilerplate',
-    // description: 'A free, open-source, and powerful landing page boilerplate, ideal for various projects, enabling you to create a landing page in under an hour.',
+    // title: 'geometry dash unblocked',
+    // description: 'Geometry Dash Unblocked: Free online rhythm platformer. No downloads. Challenge levels, beat rhythms in-browser. Ad-free, unlimited fun. Play now!',
     url: 'https://landingpage.weijunext.com',
     // logo: '',
     // og: 'https://landingpage.weijunext.com/og.png'

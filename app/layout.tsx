@@ -22,6 +22,7 @@ export const metadata = {
   title: siteConfig.name,
   description: siteConfig.description,
   keywords: siteConfig.keywords,
+  canonical: siteConfig.canonical,
   authors: siteConfig.authors,
   creator: siteConfig.creator,
   icons: siteConfig.icons,
@@ -55,7 +56,7 @@ export default async function RootLayout({
           enableSystem
         >
           <Header />
-          <main className="flex flex-col items-center py-6">{children}</main>
+          <main className="flex flex-col items-center py-2">{children}</main>
           <Footer />
           <Analytics />
           <TailwindIndicator />
@@ -72,3 +73,4 @@ export default async function RootLayout({
     </html>
   );
 }
+

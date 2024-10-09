@@ -23,6 +23,7 @@ export type SiteConfig = {
   description: string
   url: string
   keywords: string[]
+  canonical: string
   authors: AuthorsConfig[]
   creator: string
   openSourceURL?: string

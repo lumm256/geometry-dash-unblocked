@@ -1,12 +1,8 @@
+import GameFrame from "@/components/GameFrame";
 import CTA from "@/components/home/CTA";
 import FAQ from "@/components/home/FAQ";
-import Feature from "@/components/home/Feature";
 import Hero from "@/components/home/Hero";
-import Pricing from "@/components/home/Pricing";
-import ScrollingLogos from "@/components/home/ScrollingLogos";
-import Showcase from "@/components/home/Showcase";
-import SocialProof from "@/components/home/SocialProof";
-import Testimonials from "@/components/home/Testimonials";
+import Instructions from "@/components/home/Instructions";
 import { defaultLocale, getDictionary } from "@/lib/i18n";
 
 export default async function HomeIndex({ lang }: { lang: string }) {
@@ -17,21 +13,19 @@ export default async function HomeIndex({ lang }: { lang: string }) {
     <>
       {/* Hero Section */}
       <Hero locale={dict.Hero} CTALocale={dict.CTAButton} />
-      <SocialProof locale={dict.SocialProof} />
-      {/* display technology stack, partners, project honors, etc. */}
-      <ScrollingLogos />
+      {/* game iframe */}
+      <GameFrame
+        src="https://game.geometry-dash-unblocked.com/Geometry-Dash-Unblocked.html"
+        width={"600"}
+        height={"450"}
+      />
 
-      {/* Showcase */}
-      <Showcase id="Showcase" locale={dict.Showcase} />
-
-      {/* USP (Unique Selling Proposition) */}
-      <Feature id="Features" locale={dict.Feature} langName={langName} />
-
-      {/* Pricing */}
-      <Pricing id="Pricing" locale={dict.Pricing} langName={langName} />
-
-      {/* Testimonials */}
-      <Testimonials id="Testimonials" locale={dict.Testimonials} />
+      {/* Instructions */}
+      <Instructions
+        id="Instructions"
+        locale={dict.Instructions}
+        langName={langName}
+      />
 
       {/* FAQ (Frequently Asked Questions) */}
       <FAQ id="FAQ" locale={dict.FAQ} langName={langName} />
@@ -41,3 +35,4 @@ export default async function HomeIndex({ lang }: { lang: string }) {
     </>
   );
 }
+
