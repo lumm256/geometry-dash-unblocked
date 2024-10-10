@@ -109,7 +109,7 @@ export const INSTRUCTIONS_ZH = [
 
 我们革命性的 Geometry Dash Unblocked 网站应运而生 – 这是您通向不间断游戏乐趣的门户！
 
-我们很高兴为您介绍一个平台，它将几何冲刺的令人上瘾的魅力带到您的指尖，随时随地。
+我们很高兴为您介绍一个平台，它将 Geometry Dash Unblocked 的令人上瘾的魅力带到您的指尖，随时随地。
 
 ### 什么是 Geometry Dash Unblocked ？
 
@@ -117,7 +117,7 @@ Geometry Dash Unblocked 是我们精心打造的流行节奏动作平台游戏�
 
 无论您是在课间消磨时间，还是在午休时寻求快速刺激，我们的 Geometry Dash Unblocked 网站都是您完美的伴侣。
 
-这个版本忠实于原版几何冲刺体验，提供：
+这个版本忠实于原版 Geometry Dash Unblocked 体验，提供：
 
 ☞ 与游戏玩法完美同步的激动人心的音乐节奏
 ☞ 具有挑战性和创意设计的关卡，考验您的反应能力
@@ -187,7 +187,7 @@ Geometry Dash Unblocked 是我们精心打造的流行节奏动作平台游戏�
 
 ### 结论：您的 Geometry Dash Unblocked 之旅等待着您！
 
-无论您是这款游戏的长期粉丝还是几何挑战世界的新手，我们的 Geometry Dash Unblocked 网站都提供了无与伦比的游戏体验。我们打破了障碍，让您可以随时随地享受几何冲刺。
+无论您是这款游戏的长期粉丝还是几何挑战世界的新手，我们的 Geometry Dash Unblocked 网站都提供了无与伦比的游戏体验。我们打破了障碍，让您可以随时随地享受 Geometry Dash Unblocked。
 
 现在是时候开始您的 Geometry Dash Unblocked 冒险了！今天就访问我们的网站，沉浸在一个节奏与挑战相遇、乐趣无穷的世界中。在 Geometry Dash Unblocked 的领域，您的唯一限制就是天空 – 所以跳跃、飞翔、冲刺，向几何荣耀进发吧！
     `
