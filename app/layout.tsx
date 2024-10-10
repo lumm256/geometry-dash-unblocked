@@ -22,7 +22,7 @@ export const metadata = {
   title: siteConfig.name,
   description: siteConfig.description,
   keywords: siteConfig.keywords,
-  canonical: siteConfig.canonical,
+  alternates: siteConfig.alternates,
   authors: siteConfig.authors,
   creator: siteConfig.creator,
   icons: siteConfig.icons,

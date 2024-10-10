@@ -53,318 +53,218 @@ export const FAQS_EN = [
 
 export const FAQS_ZH = [
   {
-    title: "什么是落地页？",
-    content:
-      "落地页是为市场营销或广告活动专门创建的独立网页。访问者在点击电子邮件中的链接、Google、Bing、YouTube、Facebook、Instagram、Twitter或网络上类似位置的广告后“降落”到该页面上。与通常具有多个目标并鼓励探索的网页不同，落地页设计有单一焦点或目标，称为行动号召（CTA）。",
+    "title": "1. Geometry Dash 无限制版是免费玩的吗？",
+    "content": "是的，我们的 Geometry Dash 无限制版完全免费。您可以随时随地免费享受这款游戏。"
   },
   {
-    title: "我如何创建一个落地页？",
-    content:
-      "创建落地页可以分几个步骤完成：1) 选择一个适合你活动需求的落地页模板，或从头开始。2) 确定你的落地页目标和CTA。3) 编写吸引访问者采取行动的引人注目的内容。4) 加入与你信息相符的设计元素，如图片、视频和表单。5) 测试你的页面的可用性和移动响应性。6) 使用SEO最佳实践帮助你的页面被发现。7) 发布你的落地页，并监控其性能以根据需要进行调整。",
+    "title": "2. Geometry Dash 无限制版与原版游戏有何不同？",
+    "content": "Geometry Dash 无限制版提供与原版相同的刺激游戏体验，但它可以在学校或工作等受限网络中访问。我们已针对网页浏览器进行了优化，确保流畅的性能，无需下载或安装。"
   },
   {
-    title: "为什么落地页很重要？",
-    content:
-      "落地页对于任何营销策略都至关重要，因为它们提供了一个针对性的平台，用于将访问者转化为潜在客户或客户。与通用网站不同，落地页将访问者的注意力集中在单一优惠上，最小化分心并引导他们向特定行动发展。这种集中的方法可以显著提高你的营销活动的有效性，改善广告性能，并通过为他们提供他们正在寻找的信息或解决方案来增强总体用户体验。",
+    "title": "3. 在学校或工作电脑上玩 Geometry Dash 无限制版安全吗？",
+    "content": "我们的版本设计为安全可靠。但是，请务必确保您遵守学校或工作场所的计算机使用政策。我们建议在空闲时间使用个人设备，以避免任何潜在问题。"
   },
   {
-    title: "为什么选择我们的落地页模板？",
-    content:
-      "我们的落地页模板是免费的、开源的且功能强大，非常适合各种项目和市场营销活动。它允许你在不到一小时内创建一个落地页，简化了开发过程，同时也提供了高度的自定义性和响应性。",
+    "title": "4. 我需要创建账户才能玩吗？",
+    "content": "不，您不需要创建账户就能玩 Geometry Dash 无限制版。您可以立即开始游戏，无需任何注册过程。"
   },
   {
-    title: "使用这个模板我需要哪些技能？",
-    content:
-      "使用我们的落地页模板，你只需要基本的网页编辑技能。该模板的设计旨在让非技术用户轻松上手，同时为有经验的开发者提供高度的自定义能力。",
+    "title": "5. 玩 Geometry Dash 无限制版时，我的进度会被保存吗？",
+    "content": "进度保存取决于您的浏览器设置。为获得最佳体验，我们建议在浏览器中启用 cookie。这将允许游戏在您的设备上本地保存您的进度。"
   },
   {
-    title: "我如何开始使用落地页模板？",
-    content:
-      "开始非常简单。只需从我们的GitHub仓库下载源代码，根据需要编辑文本和图片，然后将其部署到你的服务器上。",
+    "title": "6. 我可以在移动设备上玩 Geometry Dash 无限制版吗？",
+    "content": "是的，我们的版本针对桌面和移动浏览器都进行了优化。只要您有稳定的互联网连接，就可以在智能手机或平板电脑上享受游戏。"
   },
   {
-    title: "落地页模板支持响应式设计吗？",
-    content:
-      "是的，我们的落地页模板支持响应式设计，确保你的网页在桌面、平板或智能手机等各种设备上完美显示。",
+    "title": "7. 原版 Geometry Dash 中的所有关卡在无限制版中都可用吗？",
+    "content": "我们努力包含尽可能多的原版游戏关卡。然而，由于技术限制，某些关卡可能无法使用或与原版略有不同。"
   },
   {
-    title: "我可以将这个模板用于商业项目吗？",
-    content:
-      "绝对可以。我们的模板是开源的，你可以将其用于任何类型的项目，包括商业用途。我们鼓励用户利用这个模板来创建和优化他们的在线项目。",
+    "title": "8. Geometry Dash 无限制版多久更新一次？",
+    "content": "我们旨在定期更新我们的无限制版本，以修复错误、改善性能，并偶尔添加新内容。请经常查看我们的网站以获取最新更新和改进。"
   },
   {
-    title: "你们提供定制服务吗？",
-    content:
-      "我们接受落地页的定制开发服务。请通过电子邮件weijunext@gmail.com或Twitter @weijunext与我们联系。",
+    "title": "9. 如果游戏无法加载或遇到任何问题，我该怎么办？",
+    "content": "如果您遇到问题，请尝试清除浏览器缓存和 cookie，或尝试使用不同的浏览器。如果问题仍然存在，请通过我们网站上提供的联系表单联系我们的支持团队。"
   },
   {
-    title: "使用这个模板有任何限制吗？",
-    content:
-      "没有。你可以自由使用和修改这个模板。同时，我们鼓励开发者提交PR来共同帮助改进这个落地页模板。",
-  },
-  {
-    title: "这个模板包括SEO优化功能吗？",
-    content:
-      "是的，我们的模板包含基本的SEO优化功能，帮助你的网页在搜索引擎中获得更好的排名。",
-  },
-  {
-    title: "如果我在使用模板时遇到问题该怎么办？",
-    content:
-      "如果你在使用模板时遇到任何问题，请通过Twitter @weijunext 与我们联系。",
-  },
+    "title": "10. Geometry Dash 无限制版合法吗？",
+    "content": "我们的 Geometry Dash 版本专为教育和娱乐目的而设计，特别是针对受限网络环境中的用户。但是，我们始终建议尊重版权法，并在可能的情况下支持原版游戏开发者。"
+  }
 ];
 
 export const FAQS_JA = [
   {
-    title: "ランディングページとは何ですか？",
-    content:
-      "ランディングページは、マーケティングや広告キャンペーンのために特別に作成された独立したウェブページです。訪問者がメール内のリンクやGoogle、Bing、YouTube、Facebook、Instagram、Twitter、またはウェブ上の類似の場所からの広告をクリックした後に「着陸」する場所です。ウェブページが多くの目標を持ち探索を促すのに対し、ランディングページは行動を促す一つの焦点または目標（CTA）を持って設計されています。",
+    "title": "1. Geometry Dash アンブロック版は無料でプレイできますか？",
+    "content": "はい、私たちの Geometry Dash アンブロック版は完全に無料でプレイできます。いつでもどこでも無料でゲームを楽しむことができます。"
   },
   {
-    title: "ランディングページはどのように作成しますか？",
-    content:
-      "ランディングページの作成はいくつかのステップで行うことができます：1) キャンペーンのニーズに合ったランディングページのテンプレートを選択するか、ゼロから始めます。2) ランディングページの目的とCTAを特定します。3) 訪問者が行動を起こすよう促す魅力的なコンテンツを作成します。4) メッセージと一致する画像、ビデオ、フォームなどのデザイン要素を取り入れます。5) ページの使いやすさとモバイル対応性をテストします。6) ページが見つかるようにSEOのベストプラクティスを使用します。7) ランディングページを公開し、必要に応じて調整を行いながらそのパフォーマンスを監視します。",
+    "title": "2. Geometry Dash アンブロック版はオリジナルゲームとどう違いますか？",
+    "content": "Geometry Dash アンブロック版はオリジナルと同じエキサイティングなゲームプレイを提供しますが、学校や職場などの制限されたネットワークでもアクセスできます。ウェブブラウザ向けに最適化されており、ダウンロードやインストールの必要なく、スムーズなパフォーマンスを保証します。"
   },
   {
-    title: "ランディングページが重要な理由は何ですか？",
-    content:
-      "ランディングページは、訪問者をリードや顧客に変換するためのターゲットされたプラットフォームを提供するため、あらゆるマーケティング戦略にとって不可欠です。一般的なウェブサイトとは異なり、ランディングページは訪問者の注意を単一のオファーに集中させ、気晴らしを最小限に抑え、特定のアクションに導くことに焦点を当てています。この集中的なアプローチは、マーケティングキャンペーンの効果を著しく高め、広告のパフォーマンスを改善し、訪問者が求めていた情報や解決策を提供することで全体的なユーザー体験を向上させることができます。",
+    "title": "3. 学校や職場のコンピュータで Geometry Dash アンブロック版をプレイしても安全ですか？",
+    "content": "私たちのバージョンは安全で安心して使用できるように設計されています。ただし、必ず学校や職場のコンピュータ使用ポリシーに従ってください。潜在的な問題を避けるため、自由時間に個人のデバイスを使用することをお勧めします。"
   },
   {
-    title: "なぜ私たちのランディングページのボイラープレートを選ぶのですか？",
-    content:
-      "私たちのランディングページのテンプレートは無料で、オープンソースで、強力であり、さまざまなプロジェクトやマーケティングキャンペーンに理想的です。1時間以内にランディングページを作成できることで、開発プロセスを簡素化しながら、高度なカスタマイズ性と応答性を提供します。",
+    "title": "4. プレイするためにアカウントを作成する必要がありますか？",
+    "content": "いいえ、Geometry Dash アンブロック版をプレイするためにアカウントを作成する必要はありません。登録プロセスなしですぐにプレイを開始できます。"
   },
   {
-    title: "このテンプレートを使用するために必要なスキルは何ですか？",
-    content:
-      "当社のランディングページテンプレートを使用するには、基本的なウェブ編集スキルだけが必要です。このテンプレートのデザインは、技術的でないユーザーが簡単に始められるように意図されていますが、経験豊富な開発者にも高いカスタマイズ性を提供します。",
+    "title": "5. Geometry Dash アンブロック版をプレイする際、進行状況は保存されますか？",
+    "content": "進行状況の保存はブラウザの設定によります。最良の体験を得るために、ブラウザでクッキーを有効にすることをお勧めします。これにより、ゲームはあなたのデバイスにローカルで進行状況を保存できます。"
   },
   {
-    title: "ランディングページテンプレートを使い始めるにはどうすればいいですか？",
-    content:
-      "始めるのは非常に簡単です。GitHubリポジトリからソースコードをダウンロードし、必要に応じてテキストや画像を編集してから、サーバーにデプロイします。",
+    "title": "6. モバイルデバイスで Geometry Dash アンブロック版をプレイできますか？",
+    "content": "はい、私たちのバージョンはデスクトップとモバイルブラウザの両方に最適化されています。安定したインターネット接続があれば、スマートフォンやタブレットでゲームを楽しむことができます。"
   },
   {
-    title: "ランディングページテンプレートはレスポンシブデザインに対応していますか？",
-    content:
-      "はい、当社のランディングページテンプレートはレスポンシブデザインに対応しており、デスクトップ、タブレット、スマートフォンなど、さまざまなデバイスで完璧に表示されます。",
+    "title": "7. オリジナルの Geometry Dash のすべてのレベルがアンブロック版で利用可能ですか？",
+    "content": "私たちはオリジナルゲームからできるだけ多くのレベルを含めるよう努めています。ただし、技術的な制限により、一部のレベルが利用できない場合や、オリジナルバージョンと若干異なる場合があります。"
   },
   {
-    title: "商業プロジェクトでこのテンプレートを使用できますか？",
-    content:
-      "もちろんです。テンプレートはオープンソースであり、商業目的を含むあらゆる種類のプロジェクトで使用できます。オンラインプロジェクトを作成して最適化するために、このテンプレートを使用することをユーザーに奨励しています。",
+    "title": "8. Geometry Dash アンブロック版はどのくらいの頻度で更新されますか？",
+    "content": "私たちはバグの修正、パフォーマンスの向上、そして時々新しいコンテンツを追加するために、定期的にアンブロック版を更新することを目指しています。最新の更新と改善については、頻繁に私たちのウェブサイトをチェックしてください。"
   },
   {
-    title: "カスタマイズサービスを提供していますか？",
-    content:
-      "有料のランディングページのカスタム開発を受け付けています。メールweijunext@gmail.comまたはTwitter @weijunextでお問い合わせください。",
+    "title": "9. ゲームが読み込まれない、または問題が発生した場合はどうすればよいですか？",
+    "content": "問題が発生した場合は、ブラウザのキャッシュとクッキーをクリアするか、別のブラウザを試してみてください。問題が解決しない場合は、ウェブサイトに用意されているお問い合わせフォームを通じて、サポートチームにご連絡ください。"
   },
   {
-    title: "このテンプレートを使用する際に制限はありますか？",
-    content:
-      "いいえ。このテンプレートを自由に使用および変更することができます。同時に、開発者がPRを提出して、このランディングページテンプレートを一緒に改善することを奨励しています。",
-  },
-  {
-    title: "このテンプレートにはSEO最適化機能が含まれていますか？",
-    content:
-      "はい、テンプレートには基本的なSEO最適化機能が含まれており、検索エンジンでのウェブページのランキング向上に役立ちます。",
-  },
-  {
-    title: "テンプレートの使用中に問題に遭遇した場合、どうすればよいですか？",
-    content:
-      "テンプレートの使用中に問題が発生した場合は、Twitter @weijunextでお問い合わせください。",
-  },
+    "title": "10. Geometry Dash アンブロック版は合法ですか？",
+    "content": "私たちの Geometry Dash バージョンは、特に制限されたネットワーク環境にいるユーザーのために、教育的および娯楽目的で設計されています。ただし、常に著作権法を尊重し、可能な限りオリジナルのゲーム開発者をサポートすることをお勧めします。"
+  }
 ];
 
 
 export const FAQS_AR = [
   {
-    title: "ما هي صفحة الهبوط؟",
-    content:
-      "صفحة الهبوط هي صفحة ويب منفصلة تم إنشاؤها خصيصًا لحملة تسويقية أو إعلانية. هذا هو المكان الذي ينتقل إليه الزائر بعد النقر على رابط في بريد إلكتروني أو إعلانات من Google أو Bing أو YouTube أو Facebook أو Instagram أو Twitter أو أماكن مماثلة على الويب. على عكس صفحات الويب التي لديها عادةً العديد من الأهداف وتشجع الاستكشاف، يتم تصميم صفحات الهبوط بهدف واحد محدد، وهو ما يُعرف باسم إجراء الدعوة (CTA).",
+    "title": "1. هل لعبة Geometry Dash غير المحظورة مجانية للعب؟",
+    "content": "نعم، إصدارنا من Geometry Dash غير المحظور مجاني تمامًا للعب. يمكنك الاستمتاع باللعبة دون أي تكلفة، في أي وقت وفي أي مكان."
   },
   {
-    title: "كيف يمكنني إنشاء صفحة هبوط؟",
-    content:
-      "يمكن إنشاء صفحة هبوط في عدة خطوات: 1) اختر قالبًا لصفحة الهبوط يناسب احتياجات حملتك أو ابدأ من الصفر. 2) حدد الهدف من صفحة الهبوط وإجراء الدعوة. 3) اكتب محتوى جذابًا يحث الزوار على اتخاذ إجراء. 4) ضمِّن عناصر تصميم مثل الصور والفيديوهات والنماذج التي تتماشى مع رسالتك. 5) اختبر قابلية استخدام الصفحة واستجابتها للجوال. 6) اتبع أفضل ممارسات SEO لمساعدة صفحتك على الظهور. 7) انشر صفحة الهبوط الخاصة بك وراقب أدائها لإجراء التعديلات اللازمة.",
+    "title": "2. كيف تختلف Geometry Dash غير المحظورة عن اللعبة الأصلية؟",
+    "content": "توفر Geometry Dash غير المحظورة نفس طريقة اللعب المثيرة مثل النسخة الأصلية، ولكنها يمكن الوصول إليها على الشبكات المقيدة مثل المدرسة أو العمل. لقد قمنا بتحسينها لمتصفحات الويب، مما يضمن أداءً سلسًا دون الحاجة إلى التنزيل أو التثبيت."
   },
   {
-    title: "لماذا تعتبر صفحة الهبوط مهمة؟",
-    content:
-      "تعتبر صفحات الهبوط أساسية لأي استراتيجية تسويقية لأنها توفر منصة موجهة لتحويل الزوار إلى عملاء أو عملاء محتملين. على عكس مواقع الويب العامة، تركز صفحات الهبوط انتباه الزائر على عرض واحد، مما يقلل من المشتتات ويوجههم نحو إجراء محدد. يمكن أن يؤدي هذا النهج المركز إلى زيادة فعالية حملاتك التسويقية بشكل كبير، وتحسين أداء الإعلانات، وتعزيز تجربة المستخدم الإجمالية من خلال توفير المعلومات أو الحل الذي كانوا يبحثون عنه.",
+    "title": "3. هل من الآمن لعب Geometry Dash غير المحظورة على جهاز الكمبيوتر الخاص بمدرستي أو عملي؟",
+    "content": "تم تصميم إصدارنا ليكون آمنًا وموثوقًا. ومع ذلك، تأكد دائمًا من اتباع سياسات استخدام الكمبيوتر في مدرستك أو مكان عملك. نوصي باستخدام الأجهزة الشخصية خلال وقت الفراغ لتجنب أي مشاكل محتملة."
   },
   {
-    title: "لماذا اختيار قالب صفحة الهبوط الخاص بنا؟",
-    content:
-      "إن قالب صفحة الهبوط الخاص بنا مجاني ومفتوح المصدر وقوي، مما يجعله مثاليًا لمختلف المشاريع والحملات التسويقية. يتيح لك إنشاء صفحة هبوط في أقل من ساعة، مما يبسط عملية التطوير مع توفير درجة عالية من إمكانية التخصيص والاستجابة للجوال.",
+    "title": "4. هل أحتاج إلى إنشاء حساب للعب؟",
+    "content": "لا، لست بحاجة إلى إنشاء حساب للعب Geometry Dash غير المحظورة. يمكنك بدء اللعب فورًا دون أي عملية تسجيل."
   },
   {
-    title: "ما المهارات التي أحتاجها لاستخدام هذا القالب؟",
-    content:
-      "لاستخدام قالب صفحة الهبوط الخاص بنا، ستحتاج فقط إلى مهارات أساسية في تحرير الويب. تم تصميم هذا القالب ليكون سهل الاستخدام بالنسبة للمستخدمين غير الفنيين، بينما يوفر أيضًا درجة عالية من إمكانية التخصيص للمطورين ذوي الخبرة.",
+    "title": "5. هل سيتم حفظ تقدمي عند لعب Geometry Dash غير المحظورة؟",
+    "content": "يعتمد حفظ التقدم على إعدادات متصفحك. للحصول على أفضل تجربة، نوصي بتمكين ملفات تعريف الارتباط في متصفحك. سيسمح هذا للعبة بحفظ تقدمك محليًا على جهازك."
   },
   {
-    title: "كيف أبدأ باستخدام قالب صفحة الهبوط؟",
-    content:
-      "البدء هو أمر بسيط. ما عليك سوى تنزيل الكود المصدري من مستودعنا على GitHub، وتحرير النص والصور حسب الحاجة، ثم نشره على خادمك.",
+    "title": "6. هل يمكنني لعب Geometry Dash غير المحظورة على الأجهزة المحمولة؟",
+    "content": "نعم، تم تحسين إصدارنا لكل من متصفحات سطح المكتب والجوال. يمكنك الاستمتاع باللعبة على هاتفك الذكي أو جهازك اللوحي، طالما لديك اتصال إنترنت مستقر."
   },
   {
-    title: "هل يدعم قالب صفحة الهبوط التصميم المستجيب؟",
-    content:
-      "نعم، يدعم قالب صفحة الهبوط الخاص بنا التصميم المستجيب، مما يضمن عرض صفحتك الإلكترونية بشكل مثالي على مجموعة متنوعة من الأجهزة، سواء كانت أجهزة سطح المكتب أو الأجهزة اللوحية أو الهواتف الذكية.",
+    "title": "7. هل جميع المستويات من Geometry Dash الأصلية متاحة في النسخة غير المحظورة؟",
+    "content": "نحن نسعى جاهدين لتضمين أكبر عدد ممكن من المستويات من اللعبة الأصلية. ومع ذلك، بسبب القيود التقنية، قد لا تكون بعض المستويات متاحة أو قد تختلف قليلاً عن النسخة الأصلية."
   },
   {
-    title: "هل يمكنني استخدام هذا القالب لمشروع تجاري؟",
-    content:
-      "بالتأكيد. إن قالب المصدر هذا مفتوح المصدر، ويمكنك استخدامه لأي نوع من المشاريع، بما في ذلك الأغراض التجارية. نحن نشجع المستخدمين على استخدام هذا القالب لإنشاء وتحسين مشاريعهم عبر الإنترنت.",
+    "title": "8. كم مرة يتم تحديث Geometry Dash غير المحظورة؟",
+    "content": "نهدف إلى تحديث نسختنا غير المحظورة بانتظام لإصلاح الأخطاء وتحسين الأداء وإضافة محتوى جديد من حين لآخر. تحقق من موقعنا على الويب بشكل متكرر للحصول على أحدث التحديثات والتحسينات."
   },
   {
-    title: "هل تقدمون خدمات تخصيص؟",
-    content:
-      "نحن نقبل التطوير المخصص المدفوع لصفحات الهبوط. يرجى التواصل معنا عبر البريد الإلكتروني على weijunext@gmail.com أو تويتر @weijunext.",
+    "title": "9. ماذا يجب أن أفعل إذا لم يتم تحميل اللعبة أو إذا واجهت أي مشاكل؟",
+    "content": "إذا كنت تواجه مشاكل، حاول مسح ذاكرة التخزين المؤقت وملفات تعريف الارتباط في متصفحك، أو جرب متصفحًا مختلفًا. إذا استمرت المشاكل، يرجى الاتصال بفريق الدعم الخاص بنا من خلال نموذج الاتصال المتوفر على موقعنا الإلكتروني."
   },
   {
-    title: "هل هناك قيود على استخدام هذا القالب؟",
-    content:
-      "لا. أنت حر في استخدام وتعديل هذا القالب. في الوقت نفسه، نشجع المطورين على تقديم طلبات المراجعة للمساعدة في تحسين هذا قالب صفحة الهبوط معًا.",
-  },
-  {
-    title: "هل يتضمن هذا القالب ميزات تحسين محركات البحث (SEO)؟",
-    content:
-      "نعم، يتضمن قالبنا ميزات تحسين محركات البحث الأساسية للمساعدة في تحقيق تصنيفات أفضل لصفحتك الإلكترونية في محركات البحث.",
-  },
-  {
-    title: "ماذا يجب أن أفعل إذا واجهت مشكلات أثناء استخدام القالب؟",
-    content:
-      "إذا واجهت أي مشكلات أثناء استخدام القالب، فيرجى التواصل معنا عبر تويتر @weijunext.",
-  },
+    "title": "10. هل Geometry Dash غير المحظورة قانونية؟",
+    "content": "تم تصميم نسختنا من Geometry Dash لأغراض تعليمية وترفيهية، خاصة للمستخدمين في بيئات الشبكات المقيدة. ومع ذلك، نوصي دائمًا باحترام قوانين حقوق النشر ودعم مطوري اللعبة الأصليين عندما يكون ذلك ممكنًا."
+  }
 ];
 
 export const FAQS_ES = [
   {
-    title: "¿Qué es una página de destino?",
-    content:
-      "Una página de destino es una página web independiente creada específicamente para una campaña de marketing o publicidad. Es el lugar donde un visitante 'aterriza' después de hacer clic en un enlace en un correo electrónico o en anuncios de Google, Bing, YouTube, Facebook, Instagram, Twitter o lugares similares en la web. A diferencia de las páginas web, que típicamente tienen muchos objetivos y fomentan la exploración, las páginas de destino se diseñan con un solo enfoque u objetivo, conocido como una acción de llamada (CTA).",
+    "title": "1. ¿Es gratis jugar a Geometry Dash Desbloqueado?",
+    "content": "Sí, nuestra versión de Geometry Dash Desbloqueado es completamente gratuita. Puedes disfrutar del juego sin costo alguno, en cualquier momento y lugar."
   },
   {
-    title: "¿Cómo puedo crear una página de destino?",
-    content:
-      "Crear una página de destino se puede hacer en varios pasos: 1) Elige una plantilla de página de destino que se adapte a las necesidades de tu campaña o comienza desde cero. 2) Identifica el objetivo y la CTA de tu página de destino. 3) Escribe un contenido convincente que anime a los visitantes a tomar medidas. 4) Incorpora elementos de diseño como imágenes, videos y formularios que se alineen con tu mensaje. 5) Prueba la usabilidad y la capacidad de respuesta móvil de tu página. 6) Utiliza las mejores prácticas de SEO para ayudar a que tu página se encuentre. 7) Publica tu página de destino y monitorea su rendimiento para hacer ajustes según sea necesario.",
+    "title": "2. ¿En qué se diferencia Geometry Dash Desbloqueado del juego original?",
+    "content": "Geometry Dash Desbloqueado ofrece la misma emocionante jugabilidad que el original, pero es accesible en redes restringidas como escuelas o trabajos. Lo hemos optimizado para navegadores web, asegurando un rendimiento fluido sin necesidad de descargas o instalaciones."
   },
   {
-    title: "¿Por qué es importante una página de destino?",
-    content:
-      "Las páginas de destino son cruciales para cualquier estrategia de marketing porque proporcionan una plataforma específica para convertir a los visitantes en clientes potenciales o clientes. A diferencia de los sitios web generales, las páginas de destino enfocan la atención del visitante en una oferta única, minimizando las distracciones y guiándolos hacia una acción específica. Este enfoque centrado puede aumentar significativamente la efectividad de tus campañas de marketing, mejorar el rendimiento de tus anuncios y mejorar la experiencia general del usuario al brindarles la información o la solución que estaban buscando.",
+    "title": "3. ¿Es seguro jugar a Geometry Dash Desbloqueado en el ordenador de mi escuela o trabajo?",
+    "content": "Nuestra versión está diseñada para ser segura y confiable. Sin embargo, asegúrate siempre de seguir las políticas de uso de ordenadores de tu escuela o lugar de trabajo. Recomendamos usar dispositivos personales durante el tiempo libre para evitar posibles problemas."
   },
   {
-    title: "¿Por qué elegir nuestra plantilla de página de destino?",
-    content:
-      "Nuestra plantilla de página de destino es gratuita, de código abierto y poderosa, lo que la convierte en ideal para diversos proyectos y campañas de marketing. Te permite crear una página de destino en menos de una hora, simplificando el proceso de desarrollo y ofreciendo también un alto grado de personalización y capacidad de respuesta.",
+    "title": "4. ¿Necesito crear una cuenta para jugar?",
+    "content": "No, no necesitas crear una cuenta para jugar a Geometry Dash Desbloqueado. Puedes empezar a jugar inmediatamente sin ningún proceso de registro."
   },
   {
-    title: "¿Qué habilidades necesito para usar esta plantilla?",
-    content:
-      "Para usar nuestra plantilla de página de destino, solo necesitas habilidades básicas de edición web. El diseño de la plantilla está pensado para que los usuarios no técnicos puedan comenzar fácilmente, mientras que también ofrece una alta personalización para desarrolladores experimentados.",
+    "title": "5. ¿Se guardará mi progreso cuando juegue a Geometry Dash Desbloqueado?",
+    "content": "El guardado del progreso depende de la configuración de tu navegador. Para la mejor experiencia, recomendamos habilitar las cookies en tu navegador. Esto permitirá que el juego guarde tu progreso localmente en tu dispositivo."
   },
   {
-    title: "¿Cómo puedo empezar con la plantilla de página de destino?",
-    content:
-      "Empezar es muy sencillo. Simplemente descarga el código fuente de nuestro repositorio de GitHub, edita el texto y las imágenes según sea necesario y luego despliégalo en tu servidor.",
+    "title": "6. ¿Puedo jugar a Geometry Dash Desbloqueado en dispositivos móviles?",
+    "content": "Sí, nuestra versión está optimizada tanto para navegadores de escritorio como móviles. Puedes disfrutar del juego en tu smartphone o tablet, siempre que tengas una conexión a internet estable."
   },
   {
-    title: "¿La plantilla de página de destino admite diseño receptivo?",
-    content:
-      "Sí, nuestra plantilla de página de destino admite diseño receptivo, lo que asegura que tu página web se muestre perfectamente en una variedad de dispositivos, ya sean de escritorio, tableta o teléfono inteligente.",
+    "title": "7. ¿Están disponibles todos los niveles del Geometry Dash original en la versión desbloqueada?",
+    "content": "Nos esforzamos por incluir tantos niveles como sea posible del juego original. Sin embargo, debido a limitaciones técnicas, algunos niveles podrían no estar disponibles o podrían diferir ligeramente de la versión original."
   },
   {
-    title: "¿Puedo usar esta plantilla para un proyecto comercial?",
-    content:
-      "Absolutamente. Nuestra plantilla es de código abierto y puedes usarla para cualquier tipo de proyecto, incluidos fines comerciales. Alentamos a los usuarios a utilizar esta plantilla para crear y optimizar sus proyectos en línea.",
+    "title": "8. ¿Con qué frecuencia se actualiza Geometry Dash Desbloqueado?",
+    "content": "Nuestro objetivo es actualizar nuestra versión desbloqueada regularmente para corregir errores, mejorar el rendimiento y ocasionalmente añadir nuevo contenido. Revisa nuestro sitio web con frecuencia para obtener las últimas actualizaciones y mejoras."
   },
   {
-    title: "¿Ofrecen servicios de personalización?",
-    content:
-      "Aceptamos el desarrollo personalizado de páginas de destino a pedido. Por favor, contáctanos por correo electrónico a weijunext@gmail.com o en Twitter @weijunext.",
+    "title": "9. ¿Qué debo hacer si el juego no carga o si encuentro algún problema?",
+    "content": "Si estás experimentando problemas, intenta limpiar la caché y las cookies de tu navegador, o prueba con un navegador diferente. Si los problemas persisten, por favor contacta a nuestro equipo de soporte a través del formulario de contacto proporcionado en nuestro sitio web."
   },
   {
-    title: "¿Hay alguna restricción para usar esta plantilla?",
-    content:
-      "No. Eres libre de usar y modificar esta plantilla. Al mismo tiempo, alentamos a los desarrolladores a enviar solicitudes de extracción (PR) para ayudar a mejorar esta plantilla de página de destino juntos.",
-  },
-  {
-    title: "¿Esta plantilla incluye funciones de optimización SEO?",
-    content:
-      "Sí, nuestra plantilla incluye funciones básicas de optimización SEO para ayudar a que tu página web logre mejores posiciones en los motores de búsqueda.",
-  },
-  {
-    title: "¿Qué debo hacer si tengo problemas al usar la plantilla?",
-    content:
-      "Si encuentras problemas mientras usas la plantilla, comunícate con nosotros a través de Twitter @weijunext.",
-  },
+    "title": "10. ¿Es legal Geometry Dash Desbloqueado?",
+    "content": "Nuestra versión de Geometry Dash está diseñada con fines educativos y de entretenimiento, especialmente para usuarios en entornos de red restringidos. Sin embargo, siempre recomendamos respetar las leyes de derechos de autor y apoyar a los desarrolladores del juego original cuando sea posible."
+  }
 ];
 
 export const FAQS_RU = [
   {
-    title: "Что такое целевая страница?",
-    content:
-      "Целевая страница - это отдельная веб-страница, специально созданная для маркетинговой или рекламной кампании. Это место, где посетитель 'приземляется' после нажатия на ссылку в электронном письме или рекламе в Google, Bing, YouTube, Facebook, Instagram, Twitter или других подобных местах в Интернете. В отличие от веб-страниц, которые, как правило, имеют множество целей и поощряют исследование, целевые страницы разработаны с единственной фокусной точкой или целью, известной как призыв к действию (CTA).",
+    "title": "1. Можно ли играть в разблокированную версию Geometry Dash бесплатно?",
+    "content": "Да, наша разблокированная версия Geometry Dash полностью бесплатна для игры. Вы можете наслаждаться игрой без каких-либо затрат в любое время и в любом месте."
   },
   {
-    title: "Как я могу создать целевую страницу?",
-    content:
-      "Создание целевой страницы можно выполнить в несколько шагов: 1) Выберите шаблон целевой страницы, который соответствует потребностям вашей кампании, или начните с нуля. 2) Определите цель вашей целевой страницы и CTA. 3) Напишите убедительный контент, который побудит посетителей предпринять действие. 4) Включите элементы дизайна, такие как изображения, видео и формы, которые соответствуют вашему сообщению. 5) Протестируйте удобство использования и мобильную адаптивность вашей страницы. 6) Используйте лучшие практики SEO, чтобы помочь вашей странице быть найденной. 7) Опубликуйте вашу целевую страницу и отслеживайте ее производительность, чтобы вносить необходимые коррективы.",
+    "title": "2. Чем разблокированная версия Geometry Dash отличается от оригинальной игры?",
+    "content": "Разблокированная версия Geometry Dash предлагает тот же захватывающий геймплей, что и оригинал, но она доступна в ограниченных сетях, таких как школа или работа. Мы оптимизировали ее для веб-браузеров, обеспечивая плавную работу без необходимости загрузки или установки."
   },
   {
-    title: "Почему важна целевая страница?",
-    content:
-      "Целевые страницы имеют решающее значение для любой маркетинговой стратегии, поскольку они обеспечивают ориентированную платформу для превращения посетителей в потенциальных клиентов или клиентов. В отличие от общих веб-сайтов, целевые страницы фокусируют внимание посетителя на единственном предложении, сводя к минимуму отвлекающие факторы и направляя их к конкретному действию. Этот сфокусированный подход может значительно повысить эффективность ваших маркетинговых кампаний, улучшить производительность рекламы и улучшить общий пользовательский опыт, предоставляя им информацию или решение, которое они искали.",
+    "title": "3. Безопасно ли играть в разблокированную версию Geometry Dash на школьном или рабочем компьютере?",
+    "content": "Наша версия разработана так, чтобы быть безопасной и надежной. Однако всегда убедитесь, что вы следуете политике использования компьютера в вашей школе или на рабочем месте. Мы рекомендуем использовать личные устройства в свободное время, чтобы избежать возможных проблем."
   },
   {
-    title: "Почему выбрать наш шаблон целевой страницы?",
-    content:
-      "Наш шаблон целевой страницы является бесплатным, с открытым исходным кодом и мощным, что делает его идеальным для различных проектов и маркетинговых кампаний. Он позволяет создать целевую страницу менее чем за час, упрощая процесс разработки, а также предлагая высокую степень кастомизации и адаптивности.",
+    "title": "4. Нужно ли создавать аккаунт для игры?",
+    "content": "Нет, вам не нужно создавать аккаунт для игры в разблокированную версию Geometry Dash. Вы можете начать играть немедленно без какого-либо процесса регистрации."
   },
   {
-    title: "Какие навыки мне нужны, чтобы использовать этот шаблон?",
-    content:
-      "Для использования нашего шаблона целевой страницы вам понадобятся только базовые навыки веб-редактирования. Дизайн шаблона рассчитан на то, чтобы быть легким для использования неопытными пользователями, в то же время предоставляя высокую степень кастомизации для опытных разработчиков.",
+    "title": "5. Будет ли сохраняться мой прогресс при игре в разблокированную версию Geometry Dash?",
+    "content": "Сохранение прогресса зависит от настроек вашего браузера. Для наилучшего опыта мы рекомендуем включить файлы cookie в вашем браузере. Это позволит игре локально сохранять ваш прогресс на вашем устройстве."
   },
   {
-    title: "Как я могу начать работу с шаблоном целевой страницы?",
-    content:
-      "Начать очень просто. Просто скачайте исходный код из нашего репозитория GitHub, отредактируйте текст и изображения по мере необходимости, а затем разверните его на своем сервере.",
+    "title": "6. Могу ли я играть в разблокированную версию Geometry Dash на мобильных устройствах?",
+    "content": "Да, наша версия оптимизирована как для настольных, так и для мобильных браузеров. Вы можете наслаждаться игрой на вашем смартфоне или планшете, если у вас есть стабильное интернет-соединение."
   },
   {
-    title: "Поддерживает ли шаблон целевой страницы адаптивный дизайн?",
-    content:
-      "Да, наш шаблон целевой страницы поддерживает адаптивный дизайн, что гарантирует, что ваша веб-страница будет идеально отображаться на различных устройствах, будь то настольный компьютер, планшет или смартфон.",
+    "title": "7. Доступны ли все уровни из оригинальной Geometry Dash в разблокированной версии?",
+    "content": "Мы стремимся включить как можно больше уровней из оригинальной игры. Однако из-за технических ограничений некоторые уровни могут быть недоступны или могут немного отличаться от оригинальной версии."
   },
   {
-    title: "Могу ли я использовать этот шаблон для коммерческого проекта?",
-    content:
-      "Абсолютно. Наш шаблон с открытым исходным кодом, и вы можете использовать его для любого типа проекта, включая коммерческие цели. Мы поощряем пользователей использовать этот шаблон для создания и оптимизации их онлайн-проектов.",
+    "title": "8. Как часто обновляется разблокированная версия Geometry Dash?",
+    "content": "Мы стремимся регулярно обновлять нашу разблокированную версию для исправления ошибок, улучшения производительности и иногда добавления нового контента. Часто проверяйте наш веб-сайт на наличие последних обновлений и улучшений."
   },
   {
-    title: "Предлагаете ли вы услуги по кастомизации?",
-    content:
-      "Мы принимаем заказные разработки целевых страниц. Пожалуйста, свяжитесь с нами по электронной почте weijunext@gmail.com или в Twitter @weijunext.",
+    "title": "9. Что делать, если игра не загружается или если я сталкиваюсь с какими-либо проблемами?",
+    "content": "Если вы испытываете проблемы, попробуйте очистить кэш и файлы cookie вашего браузера или попробуйте другой браузер. Если проблемы сохраняются, пожалуйста, свяжитесь с нашей службой поддержки через форму обратной связи на нашем веб-сайте."
   },
   {
-    title: "Есть ли какие-либо ограничения на использование этого шаблона?",
-    content:
-      "Нет. Вы можете свободно использовать и изменять этот шаблон. В то же время мы призываем разработчиков отправлять запросы на слияние, чтобы помочь улучшить этот шаблон целевой страницы вместе.",
-  },
-  {
-    title: "Включает ли этот шаблон функции оптимизации SEO?",
-    content:
-      "Да, наш шаблон включает базовые функции оптимизации SEO, чтобы помочь вашей веб-странице достичь лучших позиций в поисковых системах.",
-  },
-  {
-    title: "Что мне делать, если я столкнусь с проблемами при использовании шаблона?",
-    content:
-      "Если вы столкнетесь с какими-либо проблемами при использовании шаблона, пожалуйста, свяжитесь с нами через Twitter @weijunext.",
-  },
+    "title": "10. Легальна ли разблокированная версия Geometry Dash?",
+    "content": "Наша версия Geometry Dash разработана для образовательных и развлекательных целей, особенно для пользователей в ограниченных сетевых средах. Однако мы всегда рекомендуем уважать авторские права и поддерживать разработчиков оригинальной игры, когда это возможно."
+  }
 ];
 
 interface FAQSCollection {

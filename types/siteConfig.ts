@@ -18,13 +18,16 @@ export type ThemeColor = {
   media: string
   color: string
 }
+export type AlternateURLs = {
+  canonical: string
+}
 export type SiteConfig = {
   name: string
   description: string
   url: string
   keywords: string[]
-  canonical: string
   authors: AuthorsConfig[]
+  alternates: AlternateURLs
   creator: string
   openSourceURL?: string
   ogImage: string

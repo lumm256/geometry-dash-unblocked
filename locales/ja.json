@@ -1,9 +1,9 @@
 {
   "Hero": {
-    "title1": "",
-    "title2": "ランディングページ",
-    "title3": "迅速に構築",
-    "description": "無料でオープンソースかつ強力なランディングページのテンプレート。さまざまなプロジェクトに理想的で、1時間以内にランディングページを作成できます。"
+    "title1": "Geometry Dash",
+    "title2": "アンブロック版",
+    "title3": "",
+    "description": "Geometry Dash アンブロック版：無料オンラインリズムプラットフォーマー。ダウンロード不要。レベルに挑戦し、ブラウザ内でリズムに乗ろう。広告なし、無制限の楽しみ。今すぐプレイ！"
   },
   "SocialProof": {
     "maker": "開発者が迅速に出荷"
@@ -11,6 +11,9 @@
   "Showcase": {
     "title": "Showcase",
     "description": "1000人以上のクリエイターが利用中！コンバージョン率アップを実現するランディングページテンプレート"
+  },
+  "Instructions": {
+    "title": "指示"
   },
   "Feature": {
     "title": "Feature"
@@ -33,15 +36,15 @@
     "description": "最も頻繁に尋ねられる質問はこちらです。"
   },
   "CTA": {
-    "title": "今すぐあなたのランディングページを構築",
-    "description1": "あなたのランディングページを",
-    "description2": "構築し、",
-    "description3": "あなたの製品を",
-    "description4": "紹介し、そして",
-    "description5": "収益を得始めましょう",
-    "description6": "！"
+    "title": "今すぐ楽しもう",
+    "description1": "楽しみ、",
+    "description2": "時間を過ごし、",
+    "description3": "スコアを",
+    "description4": "見せて、",
+    "description5": "共有を",
+    "description6": "始めよう！"
   },
   "CTAButton": {
-    "title": "テンプレートを入手"
+    "title": "ゲームをプレイ"
   }
 }

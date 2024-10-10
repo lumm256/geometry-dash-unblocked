@@ -9,7 +9,9 @@ const baseSiteConfig = {
   ogImage: "https://geometry-dash-unblocked.com/og.png",
   metadataBase: '/',
   keywords: ["geometry dash unblocked", "geometry dash", "online game"],
-  canonical: "https://geometry-dash-unblocked.com/",
+  alternates: {
+    canonical: "https://geometry-dash-unblocked.com/",
+  },
   authors: [
     {
       name: "lumm",

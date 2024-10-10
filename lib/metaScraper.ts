@@ -10,7 +10,6 @@ interface UrlInput {
   url: string;
   title?: string;
   description?: string;
-  canonical?: string;
   logo?: string;
   og?: string;
 }
@@ -19,7 +18,6 @@ interface ScrapedData {
   url: string;
   title: string;
   description: string;
-  canonical: string;
   logo: string;
   og: string;
 }
@@ -40,11 +38,11 @@ export function createModernMetaScraper(options: ScraperOptions = {}) {
   }
 
   async function scrapeOrUseProvided(input: UrlInput): Promise<ScrapedData> {
-    const { url, title, description, canonical, logo, og } = input;
-    const needsScraping = !title || !description || !canonical || !logo || !og;
+    const { url, title, description, logo, og } = input;
+    const needsScraping = !title || !description || !logo || !og;
 
     if (!needsScraping) {
-      return { url, title, description, canonical, logo, og } as ScrapedData;
+      return { url, title, description, logo, og } as ScrapedData;
     }
 
     const scrapedData = await scrape(url);
@@ -53,7 +51,6 @@ export function createModernMetaScraper(options: ScraperOptions = {}) {
       url,
       title: title || scrapedData.title,
       description: description || scrapedData.description,
-      canonical: canonical || scrapedData.canonical,
       logo: logo || scrapedData.logo,
       og: og || scrapedData.og,
     };
@@ -87,7 +84,6 @@ export function createModernMetaScraper(options: ScraperOptions = {}) {
         url: normalizedUrl,
         title: extractTitle(document),
         description: extractDescription(document),
-        canonical: extractCanonical(document),
         logo: extractLogo(document, normalizedUrl),
         og: extractOgImage(document, normalizedUrl),
       };
@@ -131,14 +127,6 @@ function extractDescription(document: Document): string {
   return document.querySelector('meta[name="description"]')?.getAttribute('content') ||
     document.querySelector('meta[property="og:description"]')?.getAttribute('content') ||
     document.querySelector('meta[name="twitter:description"]')?.getAttribute('content') ||
-    document.querySelector('p')?.textContent ||
-    '';
-}
-
-function extractCanonical(document: Document): string {
-  return document.querySelector('meta[name="canonical"]')?.getAttribute('content') ||
-    document.querySelector('meta[property="og:canonical"]')?.getAttribute('content') ||
-    document.querySelector('meta[name="twitter:canonical"]')?.getAttribute('content') ||
     document.querySelector('p')?.textContent ||
     '';
 }

@@ -1,8 +1,9 @@
 {
   "Hero": {
-    "title1": "",
-    "title2": "Página de aterrizaje",
-    "title3": "construcción rápida"
+    "title1": "Geometry Dash",
+    "title2": "Desbloqueado",
+    "title3": "",
+    "description": "Geometry Dash Desbloqueado: Juego de plataformas rítmico en línea gratuito. Sin descargas. Desafía niveles, sigue el ritmo en el navegador. Sin anuncios, diversión ilimitada. ¡Juega ahora!"
   },
   "SocialProof": {
     "maker": "creadores construyen rápido"
@@ -10,6 +11,9 @@
   "Showcase": {
     "title": "Escaparate",
     "description": "Únete a más de 1000 creadores que aumentan sus conversiones con nuestra plantilla de página de aterrizaje"
+  },
+  "Instructions": {
+    "title": "Instrucciones"
   },
   "Feature": {
     "title": "Características"
@@ -32,15 +36,15 @@
     "description": "Aquí están algunas de las preguntas más frecuentes."
   },
   "CTA": {
-    "title": "Construye tu página de aterrizaje ahora",
-    "description1": "Construye",
-    "description2": "tu página de aterrizaje,",
+    "title": "Disfruta tu tiempo ahora",
+    "description1": "Disfruta",
+    "description2": "tu tiempo,",
     "description3": "muestra",
-    "description4": "tu producto, y",
-    "description5": "comienza a ganar",
-    "description6": "¡dinero!"
+    "description4": "tus puntuaciones y",
+    "description5": "¡comienza a",
+    "description6": "compartir!"
   },
   "CTAButton": {
-    "title": "Obtener Plantilla"
+    "title": "Jugar el juego"
   }
 }

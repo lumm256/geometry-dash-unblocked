@@ -1,9 +1,9 @@
 {
   "Hero": {
-    "title1": "快速构建",
-    "title2": "落地页",
+    "title1": "Geometry Dash",
+    "title2": "无限制版",
     "title3": "",
-    "description": "一个免费、开源且强大的落地页模板，适用于各种项目，让你在一个小时内搭建落地页。"
+    "description": "Geometry Dash Unblocked：免费在线节奏平台游戏。无需下载。挑战关卡，在浏览器中跟随节奏。无广告，无限乐趣。立即开玩！"
   },
   "SocialProof": {
     "maker": "制作者快速开发"
@@ -11,6 +11,9 @@
   "Showcase": {
     "title": "Showcase",
     "description": "与1000+创作者一起，使用我们的落地页模板提升转化率"
+  },
+  "Instructions": {
+    "title": "操作说明"
   },
   "Feature": {
     "title": "Feature"
@@ -33,15 +36,15 @@
     "description": "这里有一些最常见的问题。"
   },
   "CTA": {
-    "title": "立即构建你的落地页",
-    "description1": "构建",
-    "description2": "你的落地页，",
+    "title": "现在就开始享受时光",
+    "description1": "尽情",
+    "description2": "享受时光，",
     "description3": "展示",
-    "description4": "你的产品，并开始",
-    "description5": "赚取收入",
-    "description6": "！"
+    "description4": "你的分数，",
+    "description5": "开始",
+    "description6": "分享吧！"
   },
   "CTAButton": {
-    "title": "获取模板"
+    "title": "开始游戏"
   }
 }
