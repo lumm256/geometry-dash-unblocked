@@ -1,3 +1,5 @@
+import { INSTRUCTIONSCollection } from "@/types/siteConfig";
+
 export const INSTRUCTIONS_EN = [
   {
     title: "",
@@ -575,12 +577,6 @@ export const INSTRUCTIONS_RU = [
   },
 ];
 
-interface INSTRUCTIONSCollection {
-  [key: `INSTRUCTIONS_${string}`]: {
-    title: string;
-    content: string;
-  }[];
-}
 export const ALL_INSTRUCTIONS: INSTRUCTIONSCollection = {
   INSTRUCTIONS_EN,
   INSTRUCTIONS_ZH,

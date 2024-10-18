@@ -1,5 +1,5 @@
 "use client";
-import { ALL_INSTRUCTIONS } from "@/config/instructions";
+import { INSTRUCTIONSCollection } from "@/types/siteConfig";
 import ReactMarkdown from "react-markdown";
 import { RoughNotation } from "react-rough-notation";
 
@@ -7,13 +7,15 @@ function Instructions({
   id,
   locale,
   langName,
+  allInstructions,
 }: {
   id: string;
   locale: any;
   langName: string;
+  allInstructions: INSTRUCTIONSCollection;
 }) {
   const INSTRUCTIONS =
-    ALL_INSTRUCTIONS[`INSTRUCTIONS_${langName.toUpperCase()}`];
+    allInstructions[`INSTRUCTIONS_${langName.toUpperCase()}`];
   return (
     <section
       id={id}

@@ -8,7 +8,7 @@ const baseSiteConfig = {
   url: "https://geometry-dash-unblocked.com/",
   ogImage: "https://geometry-dash-unblocked.com/og.png",
   metadataBase: '/',
-  keywords: ["geometry dash unblocked", "geometry dash", "online game"],
+  keywords: [],
   alternates: {
     canonical: "https://geometry-dash-unblocked.com/",
   },

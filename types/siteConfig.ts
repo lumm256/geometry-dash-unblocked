@@ -60,3 +60,10 @@ export type SiteConfig = {
     creator: string
   },
 }
+
+export type INSTRUCTIONSCollection = {
+  [key: `INSTRUCTIONS_${string}`]: {
+    title: string;
+    content: string;
+  }[];
+}

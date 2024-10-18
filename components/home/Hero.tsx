@@ -1,7 +1,7 @@
 "use client";
 import { LineText } from "@/components/LineText";
 
-const Hero = ({ locale, CTALocale }: { locale: any; CTALocale: any }) => {
+const Hero = ({ locale }: { locale: any }) => {
   return (
     <>
       {/* <motion.div

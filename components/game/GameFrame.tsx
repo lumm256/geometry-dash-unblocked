@@ -9,7 +9,13 @@ interface GameFrameProps {
 const GameFrame: React.FC<GameFrameProps> = ({ src, width, height }) => {
   return (
     <div className="game-frame-container flex justify-between">
-      <iframe src={src} width={width} height={height} allowFullScreen></iframe>
+      <iframe
+        src={src}
+        width={width}
+        height={height}
+        allowFullScreen
+        rel="nofollow"
+      ></iframe>
       <div className="w-80 mx-5">
         <span className="font-bold text-xl text-blue-600">Instructions</span>
         <br />
