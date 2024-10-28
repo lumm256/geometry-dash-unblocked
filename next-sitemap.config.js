@@ -4,6 +4,7 @@ module.exports = {
   siteUrl:
     process.env.NEXT_PUBLIC_SITE_URL,
   sitemapSize: 7000,
+  trailingSlash: true, // 添加这个配置
   alternateRefs: [
     {
       href: 'https://geometry-dash-unblocked.com/ar/',
