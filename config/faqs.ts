@@ -1,31 +1,31 @@
 export const FAQS_EN = [
   {
-    title: "1. Is Geometry Dash Unblocked free to play?",
+    title: "1. Is Geometry Dash Unblocked game free to play?",
     content:
-      "Yes, our Geometry Dash Unblocked version is completely free to play. You can enjoy the game without any cost, anytime and anywhere.",
+      "Yes, Geometry Dash Unblocked game version is completely free to play. You can enjoy the game without any cost, anytime and anywhere.",
   },
   {
-    title: "2. How does Geometry Dash Unblocked differ from the original game?",
+    title: "2. How does Geometry Dash Unblocked game differ from the original game?",
     content:
-      "Geometry Dash Unblocked offers the same exciting gameplay as the original, but it's accessible on restricted networks like school or work. We've optimized it for web browsers, ensuring smooth performance without the need for downloads or installations.",
+      "Geometry Dash Unblocked game offers the same exciting gameplay as the original, but it's accessible on restricted networks like school or work. We've optimized it for web browsers, ensuring smooth performance without the need for downloads or installations.",
   },
   {
-    title: "3. Is it safe to play Geometry Dash Unblocked on my school or work computer?",
+    title: "3. Is it safe to play Geometry Dash Unblocked game on my school or work computer?",
     content:
       "Our version is designed to be safe and secure. However, always make sure you're following your school or workplace's computer usage policies. We recommend using personal devices during free time to avoid any potential issues.",
   },
   {
     title: "4. Do I need to create an account to play?",
     content:
-      "No, you don't need to create an account to play Geometry Dash Unblocked. You can start playing immediately without any registration process.",
+      "No, you don't need to create an account to play Geometry Dash Unblocked game. You can start playing immediately without any registration process.",
   },
   {
-    title: "5. Will my progress be saved when I play Geometry Dash Unblocked?",
+    title: "5. Will my progress be saved when I play Geometry Dash Unblocked game?",
     content:
       "Progress saving depends on your browser settings. For the best experience, we recommend enabling cookies in your browser. This will allow the game to save your progress locally on your device.",
   },
   {
-    title: "6. Can I play Geometry Dash Unblocked on mobile devices?",
+    title: "6. Can I play Geometry Dash Unblocked game on mobile devices?",
     content:
       "Yes, our version is optimized for both desktop and mobile browsers. You can enjoy the game on your smartphone or tablet, as long as you have a stable internet connection.",
   },
@@ -35,7 +35,7 @@ export const FAQS_EN = [
       "We strive to include as many levels as possible from the original game. However, due to technical limitations, some levels might not be available or might differ slightly from the original version.",
   },
   {
-    title: "8. How often is Geometry Dash Unblocked updated?",
+    title: "8. How often is Geometry Dash Unblocked game updated?",
     content:
       "We aim to update our unblocked version regularly to fix bugs, improve performance, and occasionally add new content. Check our website frequently for the latest updates and improvements.",
   },
@@ -45,7 +45,7 @@ export const FAQS_EN = [
       "If you're experiencing problems, try clearing your browser cache and cookies, or try a different browser. If issues persist, please contact our support team through the provided contact form on our website.",
   },
   {
-    title: "10. Is Geometry Dash Unblocked legal?",
+    title: "10. Is Geometry Dash Unblocked game legal?",
     content:
       "Our version of Geometry Dash is designed for educational and entertainment purposes, especially for users in restricted network environments. However, we always recommend respecting copyright laws and supporting the original game developers when possible.",
   }
