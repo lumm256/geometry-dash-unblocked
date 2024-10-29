@@ -16,7 +16,7 @@ const links = [
   { label: "FAQs", href: "#FAQ" },
   { label: "Instructions", href: "#Instructions" },
   { label: "Blog", href: "blog" },
-  { label: "News", href: "news" },
+  // { label: "News", href: "news" },
 ];
 
 const Header = () => {

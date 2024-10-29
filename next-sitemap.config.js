@@ -11,6 +11,10 @@ module.exports = {
       hreflang: 'ar',
     },
     {
+      href: 'https://geometry-dash-unblocked.com/ar/blog/',
+      hreflang: 'ar',
+    },
+    {
       href: 'https://geometry-dash-unblocked.com/ar/geometry-dash/',
       hreflang: 'ar',
     },
@@ -36,6 +40,10 @@ module.exports = {
     },
     {
       href: 'https://geometry-dash-unblocked.com/es/',
+      hreflang: 'es',
+    },
+    {
+      href: 'https://geometry-dash-unblocked.com/es/blog/',
       hreflang: 'es',
     },
     {
@@ -67,6 +75,10 @@ module.exports = {
       hreflang: 'ja',
     },
     {
+      href: 'https://geometry-dash-unblocked.com/ja/blog/',
+      hreflang: 'ja',
+    },
+    {
       href: 'https://geometry-dash-unblocked.com/ja/geometry-dash/',
       hreflang: 'ja',
     },
@@ -95,6 +107,10 @@ module.exports = {
       hreflang: 'ru',
     },
     {
+      href: 'https://geometry-dash-unblocked.com/ru/blog/',
+      hreflang: 'ru',
+    },
+    {
       href: 'https://geometry-dash-unblocked.com/ru/geometry-dash/',
       hreflang: 'ru',
     },
@@ -120,6 +136,10 @@ module.exports = {
     },
     {
       href: 'https://geometry-dash-unblocked.com/zh/',
+      hreflang: 'zh',
+    },
+    {
+      href: 'https://geometry-dash-unblocked.com/zh/blog/',
       hreflang: 'zh',
     },
     {

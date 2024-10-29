@@ -24,7 +24,10 @@ const FAQ = ({
   langName: string;
 }) => {
   const FAQS = ALL_FAQS[`FAQS_${langName.toUpperCase()}`];
-  const FAQSGAME = ALL_FAQS_GAME[`FAQS_${langName.toUpperCase()}`];
+  let FAQSGAME = ALL_FAQS_GAME[`FAQS_${langName.toUpperCase()}`];
+
+  // 首页展示前 5 条
+  FAQSGAME = FAQSGAME?.slice(0, 5);
 
   const pathname = usePathname();
   const router = useRouter();
