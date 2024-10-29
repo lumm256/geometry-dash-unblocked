@@ -19,7 +19,7 @@ function Instructions({
   return (
     <section
       id={id}
-      className="flex flex-col justify-center max-w-[88%] items-center py-16 gap-10"
+      className="flex flex-col justify-center max-w-[88%] items-center py-8 gap-10"
     >
       <div className="flex flex-col text-center gap-4">
         <h2 className="text-center text-white">

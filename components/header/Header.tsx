@@ -11,15 +11,18 @@ import { CgClose } from "react-icons/cg";
 import { ThemedButton } from "../ThemedButton";
 
 const links = [
-  { label: "Instructions", href: "#Instructions" },
-  // { label: "Pricing", href: "#Pricing" },
+  { label: "Showcase", href: "#Showcase" },
   // { label: "Testimonials", href: "#Testimonials" },
-  { label: "FAQ", href: "#FAQ" },
+  { label: "FAQs", href: "#FAQ" },
+  { label: "Instructions", href: "#Instructions" },
+  { label: "Blog", href: "blog" },
+  { label: "News", href: "news" },
 ];
 
 const Header = () => {
   const params = useParams();
   const lang = params.lang ? params.lang : "en";
+  const url = lang === "en" ? "/" : `/${lang}`;
 
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   return (
@@ -51,7 +54,13 @@ const Header = () => {
           {links.map((link) => (
             <li key={link.label}>
               <Link
-                href={`/${lang === "en" ? "" : lang}${link.href}`}
+                href={`${url}${
+                  url.endsWith("/")
+                    ? link.href.includes("#")
+                      ? link.href
+                      : `en/${link.href}`
+                    : `/${link.href}`
+                }`}
                 aria-label={link.label}
                 title={link.label}
                 className="tracking-wide transition-colors duration-200 font-normal"

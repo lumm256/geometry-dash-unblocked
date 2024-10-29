@@ -2,19 +2,16 @@ import React from "react";
 
 interface GameFrameProps {
   src: string;
-  width: string;
-  height: string;
 }
 
-const GameFrame: React.FC<GameFrameProps> = ({ src, width, height }) => {
+const GameFrame: React.FC<GameFrameProps> = ({ src }) => {
   return (
-    <div className="game-frame-container flex justify-between">
+    <div className="game-frame-container w-full flex justify-center flex-wrap">
       <iframe
         src={src}
-        width={width}
-        height={height}
         allowFullScreen
         rel="nofollow"
+        className="mb-4 w-full max-w-[600px] min-h-[400px] px-3"
       ></iframe>
       <div className="w-80 mx-5">
         <span className="font-bold text-xl text-blue-600">Instructions</span>

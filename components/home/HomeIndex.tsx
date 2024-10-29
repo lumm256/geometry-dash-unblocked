@@ -17,14 +17,13 @@ export default async function HomeIndex({ lang }: { lang: string }) {
       <Hero locale={dict.Hero} />
 
       {/* game iframe */}
-      <GameFrame
-        src="https://game.geometry-dash-unblocked.com/Geometry-Dash-Unblocked.html"
-        width={"600"}
-        height={"450"}
-      />
+      <GameFrame src="https://game.geometry-dash-unblocked.com/Geometry-Dash-Unblocked.html" />
 
       {/* Showcase */}
       <Showcase id="Showcase" locale={dict.Showcase} langName={langName} />
+
+      {/* FAQ (Frequently Asked Questions) */}
+      <FAQ id="FAQ" locale={dict.FAQ} langName={langName} />
 
       {/* Instructions */}
       <Instructions
@@ -33,9 +32,6 @@ export default async function HomeIndex({ lang }: { lang: string }) {
         langName={langName}
         allInstructions={ALL_INSTRUCTIONS}
       />
-
-      {/* FAQ (Frequently Asked Questions) */}
-      <FAQ id="FAQ" locale={dict.FAQ} langName={langName} />
 
       {/* CTA (Call to Action) */}
       <CTA locale={dict.CTA} CTALocale={dict.CTAButton} />

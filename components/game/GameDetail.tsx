@@ -23,7 +23,7 @@ async function GameDetail({
       <Hero locale={title} />
 
       {/* game iframe */}
-      <GameFrame src={src} width={"600"} height={"450"} />
+      <GameFrame src={src} />
 
       {/* Instructions */}
       <Instructions
