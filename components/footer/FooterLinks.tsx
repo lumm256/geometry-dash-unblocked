@@ -12,11 +12,12 @@ const FooterLinks = () => {
           key={link.name}
           href={link.href}
           target="_blank"
-          rel="noopener noreferrer nofollow"
-          className="mx-3 flex max-w-[24px] flex-col items-center justify-center"
+          // rel="noopener noreferrer nofollow"
+          className="mx-3 flex flex-col items-center justify-center"
         >
           {link.icon &&
             React.createElement(link.icon, { className: "text-lg" })}
+          {link.name}
         </Link>
       ))}
     </div>
@@ -24,3 +25,4 @@ const FooterLinks = () => {
 };
 
 export default FooterLinks;
+
