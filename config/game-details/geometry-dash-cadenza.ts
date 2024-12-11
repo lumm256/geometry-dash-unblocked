@@ -4,7 +4,7 @@ export const INSTRUCTIONS_EN = [
   {
     title: "",
     content: `
-    Geometry Dash Cadenza is an exciting fan-made expansion of the popular rhythm-based platformer, Geometry Dash. This unofficial addition to the Geometry Dash family brings a fresh twist to the beloved gameplay that fans have come to adore. In Geometry Dash Cadenza, players can expect the same pulse-pounding action and precise controls that made the original game a hit, but with new levels, challenges, and musical elements.
+Geometry Dash Cadenza is an exciting fan-made expansion of the popular rhythm-based platformer, Geometry Dash. This unofficial addition to the Geometry Dash family brings a fresh twist to the beloved gameplay that fans have come to adore. In Geometry Dash Cadenza, players can expect the same pulse-pounding action and precise controls that made the original game a hit, but with new levels, challenges, and musical elements.
 
 At its core, Geometry Dash Cadenza maintains the fundamental mechanics of Geometry Dash. Players navigate a geometric shape through a series of obstacles, timing their jumps and movements to the beat of the music. However, Geometry Dash Cadenza introduces its own unique flair with custom-designed levels that push the boundaries of what's possible within the Geometry Dash framework.
 

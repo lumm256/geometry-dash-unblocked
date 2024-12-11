@@ -4,7 +4,7 @@ export const INSTRUCTIONS_EN = [
   {
     title: "",
     content: `
-    Geometry Dash SubZero is a popular spin-off in the Geometry Dash series, known for its icy theme and challenging gameplay. This official version, developed by RobTop Games, offers players three unique levels with cool, winter-inspired visuals and heart-pounding electronic soundtracks. In Geometry Dash SubZero, players guide a geometric shape through obstacle-filled courses, timing jumps and movements to the beat of the music.
+Geometry Dash SubZero is a popular spin-off in the Geometry Dash series, known for its icy theme and challenging gameplay. This official version, developed by RobTop Games, offers players three unique levels with cool, winter-inspired visuals and heart-pounding electronic soundtracks. In Geometry Dash SubZero, players guide a geometric shape through obstacle-filled courses, timing jumps and movements to the beat of the music.
 
 The game maintains the core one-touch mechanics of the Geometry Dash series while introducing new elements that complement its frosty aesthetic. Geometry Dash SubZero's levels are meticulously designed, offering increasing difficulty as players progress. The game also includes a practice mode, allowing players to hone their skills and master the intricate level designs.
 

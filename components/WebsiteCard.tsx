@@ -16,13 +16,7 @@ const WebsiteCard = ({
 }) => {
   const href = "/" + langName + url;
   return (
-    <Link
-      href={href}
-      title={title}
-      aria-label={title}
-      target="_blank"
-      prefetch={false}
-    >
+    <Link href={href} title={title} aria-label={title} target="_blank">
       <div className="w-[330px] rounded-lg overflow-hidden shadow-lg hover:shadow-xl transition-all duration-300 px-2 bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 hover:border-primary dark:hover:border-primary">
         <Image
           src={og || "/og.png"}

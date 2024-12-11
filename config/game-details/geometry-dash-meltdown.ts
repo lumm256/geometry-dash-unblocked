@@ -4,7 +4,7 @@ export const INSTRUCTIONS_EN = [
   {
     title: "",
     content: `
-    Geometry Dash Meltdown is an exciting spin-off of the original Geometry Dash game, offering players a fresh and fiery take on the beloved rhythm-based platformer. Developed by RobTop Games, Geometry Dash Meltdown brings the core gameplay mechanics that fans love into a new, visually stunning environment. This free-to-play version of Geometry Dash introduces players to three action-packed levels, each with its own unique challenges and electrifying soundtrack.
+Geometry Dash Meltdown is an exciting spin-off of the original Geometry Dash game, offering players a fresh and fiery take on the beloved rhythm-based platformer. Developed by RobTop Games, Geometry Dash Meltdown brings the core gameplay mechanics that fans love into a new, visually stunning environment. This free-to-play version of Geometry Dash introduces players to three action-packed levels, each with its own unique challenges and electrifying soundtrack.
 
 In Geometry Dash Meltdown, players control a geometric shape, guiding it through a series of obstacles and hazards. The game maintains the one-touch gameplay that made the original Geometry Dash so addictive, requiring players to tap to jump and hold to fly. However, Geometry Dash Meltdown turns up the heat with its new theme, featuring vibrant, flame-inspired visuals that create a sense of urgency and excitement.
 

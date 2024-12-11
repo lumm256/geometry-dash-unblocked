@@ -4,7 +4,7 @@ export const INSTRUCTIONS_EN = [
   {
     title: "",
     content: `
-    Geometry Dash SubZero is an exhilarating addition to the popular Geometry Dash series, offering players a cool new twist on the classic rhythm-based platformer. Developed by RobTop Games, Geometry Dash SubZero brings the familiar one-touch gameplay into a frosty, visually stunning environment. This standalone expansion showcases three unique levels, each featuring its own icy theme and pulse-pounding soundtrack.
+Geometry Dash SubZero is an exhilarating addition to the popular Geometry Dash series, offering players a cool new twist on the classic rhythm-based platformer. Developed by RobTop Games, Geometry Dash SubZero brings the familiar one-touch gameplay into a frosty, visually stunning environment. This standalone expansion showcases three unique levels, each featuring its own icy theme and pulse-pounding soundtrack.
 
 In Geometry Dash SubZero, players navigate a geometric shape through a series of precisely timed jumps, flies, and flips. The game maintains the core mechanics that made Geometry Dash a global phenomenon, but Geometry Dash SubZero introduces new obstacles and visual effects that complement its wintry aesthetic. The crisp, cool color palette of Geometry Dash SubZero creates a refreshing contrast to the intense, fast-paced gameplay.
 
