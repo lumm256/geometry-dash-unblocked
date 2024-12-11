@@ -1,3 +1,4 @@
+import { siteConfig } from '@/config/site';
 import { JSDOM } from 'jsdom';
 
 interface ScraperOptions {
@@ -60,6 +61,7 @@ export function createModernMetaScraper(options: ScraperOptions = {}) {
     let normalizedUrl;
     try {
       normalizedUrl = await normalizeUrl(url);
+      console.log(`Normalized URL: ${normalizedUrl}`);
     } catch (error) {
       console.error(`Error normalizing URL ${url}: ${(error as Error).message}`);
       throw error;
@@ -137,7 +139,7 @@ function extractLogo(document: Document, baseUrl: string): string {
     document.querySelector('meta[property="og:image"]')?.getAttribute('content') ||
     '/favicon.ico';
 
-  return logoUrl ? new URL(logoUrl, baseUrl).href : '';
+  return logoUrl ? new URL(logoUrl, siteConfig.url).href : '';
 }
 
 function extractOgImage(document: Document, baseUrl: string): string {
@@ -145,7 +147,7 @@ function extractOgImage(document: Document, baseUrl: string): string {
     document.querySelector('meta[name="twitter:image"]')?.getAttribute('content') ||
     '';
 
-  return ogImage ? new URL(ogImage, baseUrl).href : '';
+  return ogImage ? new URL(ogImage, siteConfig.url).href : '';
 }
 
 export type ModernMetaScraper = ReturnType<typeof createModernMetaScraper>;
