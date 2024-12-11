@@ -13,6 +13,7 @@ const FooterLinks = () => {
           aria-label={link.name}
           href={link.href}
           target="_blank"
+          prefetch={false}
           // rel="noopener noreferrer nofollow"
           className="mx-3 flex flex-col items-center justify-center"
         >

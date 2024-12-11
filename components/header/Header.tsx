@@ -72,8 +72,10 @@ const Header = () => {
         <a
           href="https://www.playxia.com/"
           target="_blank"
-          aria-label="More Games"
-          title="More Games"
+          aria-label="PlayXia Games"
+          title="PlayXia Games"
+          rel="noopener"
+          data-description="PlayXia | Free Online Games - Play 10,000+ Games Instantly"
           className="tracking-wide transition-colors duration-200 font-normal flex items-center text-blue-500"
         >
           More Games <ExternalLink className="h-4 w-4 ml-1" />

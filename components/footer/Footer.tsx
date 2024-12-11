@@ -16,8 +16,10 @@ const Footer = () => {
         <a
           href="https://www.playxia.com/"
           target="_blank"
-          aria-label="More Games"
-          title="More Games"
+          aria-label="PlayXia Games"
+          title="PlayXia Games"
+          rel="noopener"
+          data-description="PlayXia | Free Online Games - Play 10,000+ Games Instantly"
           className="tracking-wide transition-colors duration-200 font-normal flex items-center"
         >
           PlayXia Games
@@ -26,7 +28,11 @@ const Footer = () => {
         <LangLinks />
         <div className="flex space-x-2">
           <div>{`©${currentYear}`}</div>{" "}
-          <Link href={authors[0].twitter || authors[0].url} target="_blank">
+          <Link
+            href={authors[0].twitter || authors[0].url}
+            target="_blank"
+            prefetch={false}
+          >
             {authors[0].name}
           </Link>{" "}
           <div>All rights reserved.</div>
