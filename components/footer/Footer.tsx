@@ -13,7 +13,7 @@ const Footer = () => {
     <footer>
       <div className="mt-16 space-y-2 pt-6 pb-4 flex flex-col items-center bg-black text-sm text-gray-400 border-t">
         {/* <FooterLinks /> */}
-        <a
+        {/* <a
           href="https://www.playxia.com/"
           target="_blank"
           aria-label="PlayXia Games"
@@ -23,7 +23,7 @@ const Footer = () => {
           className="tracking-wide transition-colors duration-200 font-normal flex items-center"
         >
           PlayXia Games
-        </a>
+        </a> */}
         <FooterProducts />
         <LangLinks />
         <div className="flex space-x-2">
