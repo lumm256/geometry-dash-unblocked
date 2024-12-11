@@ -1,12 +1,12 @@
 import WebsiteCard from "@/components/WebsiteCard";
 import { showcases } from "@/config/showcases";
-import { createModernMetaScraper, ModernMetaScraper } from "@/lib/metaScraper";
+// import { createModernMetaScraper, ModernMetaScraper } from "@/lib/metaScraper";
 import { Spacer } from "@nextui-org/react";
 import { ExternalLink } from "lucide-react";
 import Link from "next/link";
 import { RoughNotation } from "react-rough-notation";
 
-const scraper: ModernMetaScraper = createModernMetaScraper();
+// const scraper: ModernMetaScraper = createModernMetaScraper();
 
 const Showcase = async ({
   id,
