@@ -28,7 +28,7 @@ const Showcase = async ({
             {locale.title}
           </RoughNotation>
         </h2>
-        {/* <p className="text-large text-default-500">{locale.description}</p> */}
+        {/* <p className="text-large text-default-500">{locale.description}</p>  */}
       </div>
       <Spacer y={8} />
       <div className="grid grid-cols-1 gap-4 md:grid-cols-2 xl:grid-cols-3 justify-items-center">
