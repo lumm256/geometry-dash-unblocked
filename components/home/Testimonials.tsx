@@ -22,6 +22,7 @@ const Testimonials = ({ id, locale }: { id: string; locale: any }) => {
           {/* Don't take our word for it. Here's what they have to say. */}
           {locale.description1}{" "}
           <Link
+            prefetch={false}
             href={siteConfig.authors[0].twitter as string}
             target="_blank"
             rel="noopener noreferrer nofollow"
@@ -53,6 +54,7 @@ const Testimonials = ({ id, locale }: { id: string; locale: any }) => {
                   </div>
                 </div>
                 <Link
+                  prefetch={false}
                   href={`https://twitter.com/${testimonial.user.username}`}
                   target="_blank"
                   rel="noopener noreferrer nofollow"
@@ -72,3 +74,4 @@ const Testimonials = ({ id, locale }: { id: string; locale: any }) => {
 };
 
 export default Testimonials;
+

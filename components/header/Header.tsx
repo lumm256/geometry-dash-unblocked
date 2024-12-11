@@ -2,7 +2,7 @@
 import HeaderLinks from "@/components/header/HeaderLinks";
 import { LangSwitcher } from "@/components/header/LangSwitcher";
 import { siteConfig } from "@/config/site";
-import { MenuIcon } from "lucide-react";
+import { ExternalLink, MenuIcon } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
 import { useParams } from "next/navigation";
@@ -16,7 +16,6 @@ const links = [
   { label: "FAQs", href: "#FAQ" },
   { label: "Instructions", href: "#Instructions" },
   { label: "Blog", href: "blog" },
-  // { label: "News", href: "news" },
 ];
 
 const Header = () => {
@@ -70,6 +69,17 @@ const Header = () => {
             </li>
           ))}
         </ul>
+        <a
+          href="https://www.playxia.com/"
+          target="_blank"
+          aria-label="PlayXia Games"
+          title="PlayXia Games"
+          rel="noopener"
+          data-description="PlayXia | Free Online Games - Play 10,000+ Games Instantly"
+          className="tracking-wide transition-colors duration-200 font-normal flex items-center text-blue-500"
+        >
+          More Games <ExternalLink className="h-4 w-4 ml-1" />
+        </a>
 
         {/* Right section */}
         <div className="hidden md:flex items-center justify-end gap-x-6 flex-1">

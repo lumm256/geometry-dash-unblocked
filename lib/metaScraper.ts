@@ -60,6 +60,7 @@ export function createModernMetaScraper(options: ScraperOptions = {}) {
     let normalizedUrl;
     try {
       normalizedUrl = await normalizeUrl(url);
+      console.log(`Normalized URL: ${normalizedUrl}`);
     } catch (error) {
       console.error(`Error normalizing URL ${url}: ${(error as Error).message}`);
       throw error;
@@ -137,7 +138,7 @@ function extractLogo(document: Document, baseUrl: string): string {
     document.querySelector('meta[property="og:image"]')?.getAttribute('content') ||
     '/favicon.ico';
 
-  return new URL(logoUrl, baseUrl).href;
+  return logoUrl ? new URL(logoUrl, baseUrl).href : '';
 }
 
 function extractOgImage(document: Document, baseUrl: string): string {
