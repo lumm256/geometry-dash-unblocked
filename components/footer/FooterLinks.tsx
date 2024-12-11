@@ -10,6 +10,7 @@ const FooterLinks = () => {
       {links.map((link) => (
         <Link
           key={link.name}
+          aria-label={link.name}
           href={link.href}
           target="_blank"
           // rel="noopener noreferrer nofollow"

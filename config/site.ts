@@ -33,7 +33,12 @@ const baseSiteConfig = {
   headerLinks: [
     { name: 'buyMeCoffee', href: "https://www.buymeacoffee.com/lumm", icon: SiBuymeacoffee }
   ],
-  footerLinks: [],
+  footerLinks: [
+    {
+      name: "PlayXia Games",
+      href: "https://www.playxia.com"
+    }
+  ],
   footerProducts: []
 }
 
@@ -44,7 +49,7 @@ export const siteConfig: SiteConfig = {
     locale: "en_US",
     url: baseSiteConfig.url,
     title: baseSiteConfig.name,
-    images: [`${baseSiteConfig.url}/og.png`],
+    images: [`${baseSiteConfig.url}og.png`],
     description: baseSiteConfig.description,
     siteName: baseSiteConfig.name,
   },
@@ -53,7 +58,7 @@ export const siteConfig: SiteConfig = {
     site: baseSiteConfig.url,
     title: baseSiteConfig.name,
     description: baseSiteConfig.description,
-    images: [`${baseSiteConfig.url}/og.png`],
+    images: [`${baseSiteConfig.url}og.png`],
     creator: baseSiteConfig.creator,
   },
 }
