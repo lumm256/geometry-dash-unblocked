@@ -69,17 +69,15 @@ const Header = () => {
             </li>
           ))}
         </ul>
-
-        <Link
-          href={"https://www.playxial.com/"}
-          aria-label={"More Games"}
-          title={"More Games"}
-          className="tracking-wide transition-colors duration-200 font-normal flex items-center text-blue-500"
+        <a
+          href="https://www.playxia.com/"
           target="_blank"
+          aria-label="More Games"
+          title="More Games"
+          className="tracking-wide transition-colors duration-200 font-normal flex items-center text-blue-500"
         >
-          {"More Games"}
-          <ExternalLink className="h-4 w-4 ml-1" />
-        </Link>
+          More Games <ExternalLink className="h-4 w-4 ml-1" />
+        </a>
 
         {/* Right section */}
         <div className="hidden md:flex items-center justify-end gap-x-6 flex-1">

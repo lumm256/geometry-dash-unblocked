@@ -33,12 +33,7 @@ const baseSiteConfig = {
   headerLinks: [
     { name: 'buyMeCoffee', href: "https://www.buymeacoffee.com/lumm", icon: SiBuymeacoffee }
   ],
-  footerLinks: [
-    {
-      name: "PlayXia Games",
-      href: "https://www.playxia.com"
-    }
-  ],
+  footerLinks: [],
   footerProducts: []
 }
 

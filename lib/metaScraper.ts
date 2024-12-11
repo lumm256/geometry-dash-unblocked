@@ -1,4 +1,3 @@
-import { siteConfig } from '@/config/site';
 import { JSDOM } from 'jsdom';
 
 interface ScraperOptions {
@@ -139,7 +138,7 @@ function extractLogo(document: Document, baseUrl: string): string {
     document.querySelector('meta[property="og:image"]')?.getAttribute('content') ||
     '/favicon.ico';
 
-  return logoUrl ? new URL(logoUrl, siteConfig.url).href : '';
+  return logoUrl ? new URL(logoUrl, baseUrl).href : '';
 }
 
 function extractOgImage(document: Document, baseUrl: string): string {
@@ -147,7 +146,7 @@ function extractOgImage(document: Document, baseUrl: string): string {
     document.querySelector('meta[name="twitter:image"]')?.getAttribute('content') ||
     '';
 
-  return ogImage ? new URL(ogImage, siteConfig.url).href : '';
+  return ogImage ? new URL(ogImage, baseUrl).href : '';
 }
 
 export type ModernMetaScraper = ReturnType<typeof createModernMetaScraper>;
