@@ -1,6 +1,6 @@
-"use client";
 import { siteConfig } from "@/config/site";
 import Link from "next/link";
+import React from "react";
 
 const FooterLinks = () => {
   const links = siteConfig.footerLinks;
@@ -15,8 +15,8 @@ const FooterLinks = () => {
           // rel="noopener noreferrer nofollow"
           className="mx-3 flex flex-col items-center justify-center"
         >
-          {/* {link.icon &&
-            React.createElement(link.icon, { className: "text-lg" })} */}
+          {link.icon &&
+            React.createElement(link.icon, { className: "text-lg" })}
           {link.name}
         </Link>
       ))}

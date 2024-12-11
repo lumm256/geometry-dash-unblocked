@@ -1,3 +1,4 @@
+"use client";
 import FooterLinks from "@/components/footer/FooterLinks";
 import FooterProducts from "@/components/footer/FooterProducts";
 import LangLinks from "@/components/footer/LangLinks";
@@ -28,3 +29,4 @@ const Footer = () => {
 };
 
 export default Footer;
+
