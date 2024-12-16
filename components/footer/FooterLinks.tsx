@@ -14,7 +14,7 @@ const FooterLinks = () => {
           href={link.href}
           target="_blank"
           prefetch={false}
-          // rel="noopener noreferrer nofollow"
+          rel="noopener"
           className="mx-3 flex flex-col items-center justify-center"
         >
           {link.icon &&
