@@ -11,7 +11,7 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { lang } = params;
   return {
-    title: siteConfig.name + " | Geometry-Dash-World-Toxic-Factory",
+    title: siteConfig.name + " | Geometry Dash World Toxic Factory",
     alternates: {
       canonical: `${siteConfig.url}${lang}/geometry-dash-world-toxic-factory/`,
     },
@@ -33,7 +33,7 @@ export default async function Home({
       lang={lang}
       title={titleObj}
       allInstructions={ALL_INSTRUCTIONS}
-      src="https://game.geometry-dash-unblocked.com/Geometry-Dash-World-Toxic-Factory.html"
+      src="https://scratch.mit.edu/projects/224236914/embed"
     />
   );
 }

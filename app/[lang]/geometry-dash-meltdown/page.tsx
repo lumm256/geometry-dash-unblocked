@@ -11,7 +11,7 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { lang } = params;
   return {
-    title: siteConfig.name + " | Geometry-Dash-Meltdown",
+    title: siteConfig.name + " | Geometry Dash Meltdown",
     alternates: {
       canonical: `${siteConfig.url}${lang}/geometry-dash-meltdown/`,
     },
@@ -33,7 +33,7 @@ export default async function Home({
       lang={lang}
       title={titleObj}
       allInstructions={ALL_INSTRUCTIONS}
-      src="https://game.geometry-dash-unblocked.com/Geometry-Dash-Meltdown.html"
+      src="https://scratch.mit.edu/projects/319667603/embed"
     />
   );
 }

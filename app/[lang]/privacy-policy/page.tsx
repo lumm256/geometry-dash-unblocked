@@ -245,7 +245,7 @@ If you have any questions about this Privacy Policy, You can contact us:
 - By email: pengzhonghua520@gmail.com
   `;
   return (
-    <div className="w-full py-8 px-[10%]">
+    <div className="w-full py-8 px-[20%]">
       <ReactMarkdown></ReactMarkdown>
       <ReactMarkdown remarkPlugins={[gfm]}>{content}</ReactMarkdown>
     </div>

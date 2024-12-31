@@ -8,15 +8,15 @@ export const INSTRUCTIONS_EN = [
 
 In today's fast-paced digital world, finding moments of entertainment can be challenging, especially when faced with network restrictions at school or work. 
 
-Enter our revolutionary Geometry Dash Unblocked game website – your gateway to uninterrupted gaming joy!  
+Enter our revolutionary geometry dash unblocked games website – your gateway to uninterrupted gaming joy!  
 
 We're thrilled to introduce a platform that brings the addictive charm of Geometry Dash to your fingertips, anytime and anywhere.
 
-### What is Geometry Dash Unblocked game?
+### What is geometry dash unblocked games?
 
-Geometry Dash Unblocked game is our meticulously crafted web version of the popular rhythm-based action platformer. It's designed to bypass common network restrictions, allowing enthusiasts to indulge in their favorite game without limitations.
+geometry dash unblocked games is our meticulously crafted web version of the popular rhythm-based action platformer. It's designed to bypass common network restrictions, allowing enthusiasts to indulge in their favorite game without limitations.
 
-Whether you're killing time between classes or seeking a quick thrill during your lunch break, Geometry Dash Unblocked game site is your perfect companion.
+Whether you're killing time between classes or seeking a quick thrill during your lunch break, geometry dash unblocked games site is your perfect companion.
 
 This version stays true to the original Geometry Dash experience, offering:
 
@@ -28,75 +28,75 @@ This version stays true to the original Geometry Dash experience, offering:
 
 ☞ Stunning graphics and fluid animations that bring the geometric world to life
 
-### Unparalleled Features of Geometry Dash Unblocked game
+### Unparalleled Features of geometry dash unblocked games
 
-**1 Instant Access**: Say goodbye to downloads and installations. Geometry Dash Unblocked game is entirely browser-based. Just type in the URL, and you're ready to play!
+**1 Instant Access**: Say goodbye to downloads and installations. geometry dash unblocked games is entirely browser-based. Just type in the URL, and you're ready to play!
 
-**2 Continuous Updates**: We're committed to keeping your gaming experience fresh. Our dedicated team regularly updates Geometry Dash Unblocked game with new levels, features, and improvements.
+**2 Continuous Updates**: We're committed to keeping your gaming experience fresh. Our dedicated team regularly updates geometry dash unblocked games with new levels, features, and improvements.
 
-**3 Universal Compatibility**: Whether you're on a Windows PC, Mac, Chromebook, or even a mobile device, Geometry Dash Unblocked game adapts seamlessly to your platform of choice.
+**3 Universal Compatibility**: Whether you're on a Windows PC, Mac, Chromebook, or even a mobile device, geometry dash unblocked games adapts seamlessly to your platform of choice.
 
-**4 Vibrant Community Hub**: Connect with fellow Geometry Dash Unblocked game enthusiasts! Share your high scores, exchange level-beating strategies, and showcase your custom-designed levels.
+**4 Vibrant Community Hub**: Connect with fellow geometry dash unblocked games enthusiasts! Share your high scores, exchange level-beating strategies, and showcase your custom-designed levels.
 
-**5 Robust Security**: Your safety is our priority. Geometry Dash Unblocked game site employs state-of-the-art security protocols to ensure your data and privacy are always protected.
+**5 Robust Security**: Your safety is our priority. geometry dash unblocked games site employs state-of-the-art security protocols to ensure your data and privacy are always protected.
 
-**6 Responsive Design**: Enjoy Geometry Dash Unblocked game on any screen size. Our adaptive interface ensures a consistent and enjoyable experience across devices.
+**6 Responsive Design**: Enjoy geometry dash unblocked games on any screen size. Our adaptive interface ensures a consistent and enjoyable experience across devices.
 
-**7 Offline Mode**: Yes, you read that right! Once loaded, you can play Geometry Dash Unblocked game even without an internet connection – perfect for truly restricted environments.
+**7 Offline Mode**: Yes, you read that right! Once loaded, you can play geometry dash unblocked games even without an internet connection – perfect for truly restricted environments.
 
-### Why Geometry Dash Unblocked game Stands Out?
+### Why geometry dash unblocked games Stands Out?
 
-In a sea of unblocked game websites, Geometry Dash Unblocked game shines for several reasons:
+In a sea of unblocked games websites, geometry dash unblocked games shines for several reasons:
 
-**1 Unmatched Stability**: Powered by cutting-edge cloud technology, our servers deliver a lag-free, smooth Geometry Dash Unblocked game experience every time.
+**1 Unmatched Stability**: Powered by cutting-edge cloud technology, our servers deliver a lag-free, smooth geometry dash unblocked games experience every time.
 
-**2 Complete Game Experience**: Unlike some watered-down versions, Geometry Dash Unblocked game includes every level, character, and feature from the original game.
+**2 Complete Game Experience**: Unlike some watered-down versions, geometry dash unblocked games includes every level, character, and feature from the original game.
 
-**3 Legal and Ethical**: We've taken great care to ensure Geometry Dash Unblocked game version respects all copyright laws and intellectual property rights.
+**3 Legal and Ethical**: We've taken great care to ensure geometry dash unblocked games version respects all copyright laws and intellectual property rights.
 
-**4 User-Centric Design**: Navigating Geometry Dash Unblocked game site is a breeze. We've optimized every aspect of the user interface for intuitive gameplay.
+**4 User-Centric Design**: Navigating geometry dash unblocked games site is a breeze. We've optimized every aspect of the user interface for intuitive gameplay.
 
-**5 Ad-Free Experience**: Enjoy Geometry Dash Unblocked game without annoying pop-ups or intrusive advertisements. We prioritize your gaming immersion.
+**5 Ad-Free Experience**: Enjoy geometry dash unblocked games without annoying pop-ups or intrusive advertisements. We prioritize your gaming immersion.
 
-### Getting Started with Geometry Dash Unblocked game
+### Getting Started with geometry dash unblocked games
 
-Jumping into the world of Geometry Dash Unblocked game is as easy as 1-2-3:
+Jumping into the world of geometry dash unblocked games is as easy as 1-2-3:
 
 1 Open your preferred web browser
 
-2 Type in Geometry Dash Unblocked game website address
+2 Type in geometry dash unblocked games website address
 
 3 Click 'Play Now' and choose your desired level or mode
 
-4 Let the Geometry Dash Unblocked game adventure begin!
+4 Let the geometry dash unblocked games adventure begin!
 
-### Join the Thriving Geometry Dash Unblocked game Community
+### Join the Thriving geometry dash unblocked games Community
 
-At its core, gaming is about connection. Geometry Dash Unblocked game platform goes beyond just providing the game – we've built a thriving community of passionate players. When you join Geometry Dash Unblocked game family, you'll be able to:
+At its core, gaming is about connection. geometry dash unblocked games platform goes beyond just providing the game – we've built a thriving community of passionate players. When you join geometry dash unblocked games family, you'll be able to:
 
 - Exchange advanced tips and tricks with seasoned players
-- Participate in exciting Geometry Dash Unblocked game tournaments and competitions
+- Participate in exciting geometry dash unblocked games tournaments and competitions
 - Collaborate on level designs and share your creations
-- Engage in forums discussing all things Geometry Dash Unblocked game
-- Stay updated with the latest Geometry Dash Unblocked game news and feature releases
+- Engage in forums discussing all things geometry dash unblocked games
+- Stay updated with the latest geometry dash unblocked games news and feature releases
 
-### Educational Benefits of Geometry Dash Unblocked game
+### Educational Benefits of geometry dash unblocked games
 
-While Geometry Dash Unblocked game is undoubtedly entertaining, it also offers several cognitive benefits:
+While geometry dash unblocked games is undoubtedly entertaining, it also offers several cognitive benefits:
 
-- **Improved Hand-Eye Coordination**: The fast-paced nature of Geometry Dash Unblocked game helps sharpen reflexes and enhance motor skills.
+- **Improved Hand-Eye Coordination**: The fast-paced nature of geometry dash unblocked games helps sharpen reflexes and enhance motor skills.
 
-- **Pattern Recognition**: Successfully navigating levels in Geometry Dash Unblocked game requires keen pattern recognition skills, a valuable cognitive ability.
+- **Pattern Recognition**: Successfully navigating levels in geometry dash unblocked games requires keen pattern recognition skills, a valuable cognitive ability.
 
-- **Persistence and Resilience**: The challenging nature of Geometry Dash Unblocked game teaches players the value of perseverance and learning from failures.
+- **Persistence and Resilience**: The challenging nature of geometry dash unblocked games teaches players the value of perseverance and learning from failures.
 
-- **Rhythm and Timing**: Syncing actions with the beat in Geometry Dash Unblocked game can improve a player's sense of rhythm and timing.
+- **Rhythm and Timing**: Syncing actions with the beat in geometry dash unblocked games can improve a player's sense of rhythm and timing.
 
-### Conclusion: Your Geometry Dash Unblocked game Journey Awaits!
+### Conclusion: Your geometry dash unblocked games Journey Awaits!
 
-Whether you're a long-time fan of the game or new to the world of geometric challenges, Geometry Dash Unblocked game website offers an unparalleled gaming experience. We've broken down the barriers, allowing you to enjoy Geometry Dash whenever and wherever you want.
+Whether you're a long-time fan of the game or new to the world of geometric challenges, geometry dash unblocked games website offers an unparalleled gaming experience. We've broken down the barriers, allowing you to enjoy Geometry Dash whenever and wherever you want.
 
-The time has come to embark on your Geometry Dash Unblocked game adventure! Visit our website today and immerse yourself in a world where rhythm meets challenge, and fun knows no bounds. In the realm of Geometry Dash Unblocked game, your only limit is the sky – so jump, fly, and dash your way to geometric glory!
+The time has come to embark on your geometry dash unblocked games adventure! Visit our website today and immerse yourself in a world where rhythm meets challenge, and fun knows no bounds. In the realm of geometry dash unblocked games, your only limit is the sky – so jump, fly, and dash your way to geometric glory!
 `,
   },
 ];
@@ -105,93 +105,93 @@ export const INSTRUCTIONS_ZH = [
   {
     title: "",
     content: `
-### 欢迎体验终极 Geometry Dash Unblocked game 游戏！
+### 欢迎体验终极 geometry dash unblocked games 游戏！
 
 在当今快节奏的数字世界中，寻找娱乐时刻可能具有挑战性，尤其是在学校或工作场所面临网络限制时。
 
-我们革命性的 Geometry Dash Unblocked game 网站应运而生 – 这是您通向不间断游戏乐趣的门户！
+我们革命性的 geometry dash unblocked games 网站应运而生 – 这是您通向不间断游戏乐趣的门户！
 
-我们很高兴为您介绍一个平台，它将 Geometry Dash Unblocked game 的令人上瘾的魅力带到您的指尖，随时随地。
+我们很高兴为您介绍一个平台，它将 geometry dash unblocked games 的令人上瘾的魅力带到您的指尖，随时随地。
 
-### 什么是 Geometry Dash Unblocked game ？
+### 什么是 geometry dash unblocked games ？
 
-Geometry Dash Unblocked game 是我们精心打造的流行节奏动作平台游戏的网页版。它旨在绕过常见的网络限制，让爱好者可以不受限制地沉浸在他们喜爱的游戏中。
+geometry dash unblocked games 是我们精心打造的流行节奏动作平台游戏的网页版。它旨在绕过常见的网络限制，让爱好者可以不受限制地沉浸在他们喜爱的游戏中。
 
-无论您是在课间消磨时间，还是在午休时寻求快速刺激，我们的 Geometry Dash Unblocked game 网站都是您完美的伴侣。
+无论您是在课间消磨时间，还是在午休时寻求快速刺激，我们的 geometry dash unblocked games 网站都是您完美的伴侣。
 
-这个版本忠实于原版 Geometry Dash Unblocked game 体验，提供：
+这个版本忠实于原版 geometry dash unblocked games 体验，提供：
 
 ☞ 与游戏玩法完美同步的激动人心的音乐节奏
 ☞ 具有挑战性和创意设计的关卡，考验您的反应能力
 ☞ 各种游戏模式，让您玩上几个小时都不会厌倦
 ☞ 令人惊叹的图形和流畅的动画，让几何世界栩栩如生
 
-### 我们的 Geometry Dash Unblocked game 的无与伦比的特点
+### 我们的 geometry dash unblocked games 的无与伦比的特点
 
-**1. 即时访问**：告别下载和安装。我们的 Geometry Dash Unblocked game 完全基于浏览器。只需输入URL，您就可以立即开始游戏！
+**1. 即时访问**：告别下载和安装。我们的 geometry dash unblocked games 完全基于浏览器。只需输入URL，您就可以立即开始游戏！
 
-**2. 持续更新**：我们致力于保持您的游戏体验新鲜。我们的专门团队定期更新 Geometry Dash Unblocked game ，增加新关卡、功能和改进。
+**2. 持续更新**：我们致力于保持您的游戏体验新鲜。我们的专门团队定期更新 geometry dash unblocked games ，增加新关卡、功能和改进。
 
-**3. 通用兼容性**：无论您使用的是Windows PC、Mac、Chromebook，甚至是移动设备，我们的 Geometry Dash Unblocked game 都能无缝适应您选择的平台。
+**3. 通用兼容性**：无论您使用的是Windows PC、Mac、Chromebook，甚至是移动设备，我们的 geometry dash unblocked games 都能无缝适应您选择的平台。
 
-**4. 充满活力的社区中心**：与其他 Geometry Dash Unblocked game 爱好者联系！分享您的高分，交流通关策略，展示您自定义设计的关卡。
+**4. 充满活力的社区中心**：与其他 geometry dash unblocked games 爱好者联系！分享您的高分，交流通关策略，展示您自定义设计的关卡。
 
-**5. 强大的安全性**：您的安全是我们的首要任务。我们的 Geometry Dash Unblocked game 网站采用最先进的安全协议，确保您的数据和隐私始终受到保护。
+**5. 强大的安全性**：您的安全是我们的首要任务。我们的 geometry dash unblocked games 网站采用最先进的安全协议，确保您的数据和隐私始终受到保护。
 
-**6. 响应式设计**：在任何屏幕尺寸上享受 Geometry Dash Unblocked game 。我们的自适应界面确保在各种设备上都能获得一致且愉快的体验。
+**6. 响应式设计**：在任何屏幕尺寸上享受 geometry dash unblocked games 。我们的自适应界面确保在各种设备上都能获得一致且愉快的体验。
 
-**7. 离线模式**：没错，您没看错！一旦加载完成，即使没有互联网连接，您也可以玩 Geometry Dash Unblocked game  – 非常适合真正受限的环境。
+**7. 离线模式**：没错，您没看错！一旦加载完成，即使没有互联网连接，您也可以玩 geometry dash unblocked games  – 非常适合真正受限的环境。
 
-### 为什么我们的 Geometry Dash Unblocked game 脱颖而出？
+### 为什么我们的 geometry dash unblocked games 脱颖而出？
 
-在众多解锁游戏网站中，我们的 Geometry Dash Unblocked game 因以下几个原因而闪耀：
+在众多解锁游戏网站中，我们的 geometry dash unblocked games 因以下几个原因而闪耀：
 
-**1. 无与伦比的稳定性**：由尖端云技术支持，我们的服务器每次都能提供无延迟、流畅的 Geometry Dash Unblocked game 体验。
+**1. 无与伦比的稳定性**：由尖端云技术支持，我们的服务器每次都能提供无延迟、流畅的 geometry dash unblocked games 体验。
 
-**2. 完整的游戏体验**：与一些简化版本不同，我们的 Geometry Dash Unblocked game 包含原版游戏的每一个关卡、角色和功能。
+**2. 完整的游戏体验**：与一些简化版本不同，我们的 geometry dash unblocked games 包含原版游戏的每一个关卡、角色和功能。
 
-**3. 合法和道德**：我们非常注意确保我们的 Geometry Dash Unblocked game 尊重所有版权法和知识产权。
+**3. 合法和道德**：我们非常注意确保我们的 geometry dash unblocked games 尊重所有版权法和知识产权。
 
-**4. 以用户为中心的设计**：浏览我们的 Geometry Dash Unblocked game 网站轻而易举。我们优化了用户界面的每个方面，以实现直观的游戏体验。
+**4. 以用户为中心的设计**：浏览我们的 geometry dash unblocked games 网站轻而易举。我们优化了用户界面的每个方面，以实现直观的游戏体验。
 
-**5. 无广告体验**：享受 Geometry Dash Unblocked game ，没有烦人的弹窗或侵入性广告。我们优先考虑您的游戏沉浸感。
+**5. 无广告体验**：享受 geometry dash unblocked games ，没有烦人的弹窗或侵入性广告。我们优先考虑您的游戏沉浸感。
 
-### 开始使用 Geometry Dash Unblocked game 
+### 开始使用 geometry dash unblocked games 
 
-进入 Geometry Dash Unblocked game 的世界就像1-2-3一样简单：
+进入 geometry dash unblocked games 的世界就像1-2-3一样简单：
 
 1. 打开您喜欢的网络浏览器
-2. 输入我们的 Geometry Dash Unblocked game 网站地址
+2. 输入我们的 geometry dash unblocked games 网站地址
 3. 点击"立即玩"并选择您想要的关卡或模式
-4. 让 Geometry Dash Unblocked game 冒险开始吧！
+4. 让 geometry dash unblocked games 冒险开始吧！
 
-### 加入蓬勃发展的 Geometry Dash Unblocked game 社区
+### 加入蓬勃发展的 geometry dash unblocked games 社区
 
-游戏的核心在于连接。我们的 Geometry Dash Unblocked game 平台不仅仅提供游戏 – 我们还建立了一个充满激情玩家的蓬勃发展的社区。当您加入我们的 Geometry Dash Unblocked game 大家庭时，您将能够：
+游戏的核心在于连接。我们的 geometry dash unblocked games 平台不仅仅提供游戏 – 我们还建立了一个充满激情玩家的蓬勃发展的社区。当您加入我们的 geometry dash unblocked games 大家庭时，您将能够：
 
 - 与经验丰富的玩家交流高级技巧和诀窍
-- 参与激动人心的 Geometry Dash Unblocked game 锦标赛和比赛
+- 参与激动人心的 geometry dash unblocked games 锦标赛和比赛
 - 合作设计关卡并分享您的创作
-- 参与讨论所有关于 Geometry Dash Unblocked game 的论坛
-- 及时了解最新的 Geometry Dash Unblocked game 新闻和功能发布
+- 参与讨论所有关于 geometry dash unblocked games 的论坛
+- 及时了解最新的 geometry dash unblocked games 新闻和功能发布
 
-###  Geometry Dash Unblocked game 的教育益处
+###  geometry dash unblocked games 的教育益处
 
-虽然 Geometry Dash Unblocked game 无疑是娱乐性的，但它也提供了几个认知益处：
+虽然 geometry dash unblocked games 无疑是娱乐性的，但它也提供了几个认知益处：
 
-- **提高手眼协调能力**： Geometry Dash Unblocked game 的快节奏特性有助于提高反应速度和增强运动技能。
+- **提高手眼协调能力**： geometry dash unblocked games 的快节奏特性有助于提高反应速度和增强运动技能。
 
-- **模式识别**：成功通过 Geometry Dash Unblocked game 的关卡需要敏锐的模式识别能力，这是一种宝贵的认知能力。
+- **模式识别**：成功通过 geometry dash unblocked games 的关卡需要敏锐的模式识别能力，这是一种宝贵的认知能力。
 
-- **坚持和韧性**： Geometry Dash Unblocked game 的挑战性教会玩家坚持不懈的价值和从失败中学习。
+- **坚持和韧性**： geometry dash unblocked games 的挑战性教会玩家坚持不懈的价值和从失败中学习。
 
-- **节奏和时机**：在 Geometry Dash Unblocked game 中将动作与节拍同步可以提高玩家的节奏感和时机把握。
+- **节奏和时机**：在 geometry dash unblocked games 中将动作与节拍同步可以提高玩家的节奏感和时机把握。
 
-### 结论：您的 Geometry Dash Unblocked game 之旅等待着您！
+### 结论：您的 geometry dash unblocked games 之旅等待着您！
 
-无论您是这款游戏的长期粉丝还是几何挑战世界的新手，我们的 Geometry Dash Unblocked game 网站都提供了无与伦比的游戏体验。我们打破了障碍，让您可以随时随地享受 Geometry Dash Unblocked game。
+无论您是这款游戏的长期粉丝还是几何挑战世界的新手，我们的 geometry dash unblocked games 网站都提供了无与伦比的游戏体验。我们打破了障碍，让您可以随时随地享受 geometry dash unblocked games。
 
-现在是时候开始您的 Geometry Dash Unblocked game 冒险了！今天就访问我们的网站，沉浸在一个节奏与挑战相遇、乐趣无穷的世界中。在 Geometry Dash Unblocked game 的领域，您的唯一限制就是天空 – 所以跳跃、飞翔、冲刺，向几何荣耀进发吧！
+现在是时候开始您的 geometry dash unblocked games 冒险了！今天就访问我们的网站，沉浸在一个节奏与挑战相遇、乐趣无穷的世界中。在 geometry dash unblocked games 的领域，您的唯一限制就是天空 – 所以跳跃、飞翔、冲刺，向几何荣耀进发吧！
     `
   },
 ];
@@ -291,101 +291,6 @@ Geometry Dashアンブロック版の冒険に乗り出す時が来ました！�
   },
 ];
 
-
-export const INSTRUCTIONS_AR = [
-  {
-    title: "",
-    content: `
-### مرحبًا بكم في تجربة لعب Geometry Dash غير المحظورة النهائية!
-
-في عالمنا الرقمي سريع الوتيرة اليوم، قد يكون العثور على لحظات للترفيه أمرًا صعبًا، خاصة عند مواجهة قيود الشبكة في المدرسة أو العمل.
-
-إليكم موقعنا الثوري Geometry Dash غير المحظور - بوابتكم إلى متعة اللعب المتواصلة!
-
-نحن متحمسون لتقديم منصة تجلب سحر Geometry Dash المدمن إلى أطراف أصابعكم، في أي وقت وأي مكان.
-
-### ما هو Geometry Dash غير المحظور؟
-
-Geometry Dash غير المحظور هو نسختنا المصممة بعناية من لعبة المنصات الإيقاعية الشهيرة على الويب. تم تصميمها لتجاوز قيود الشبكة الشائعة، مما يسمح للمعجبين بالاستمتاع بلعبتهم المفضلة دون قيود.
-
-سواء كنت تقتل الوقت بين الفصول أو تبحث عن إثارة سريعة خلال استراحة الغداء، فإن موقع Geometry Dash غير المحظور الخاص بنا هو رفيقك المثالي.
-
-تبقى هذه النسخة وفية لتجربة Geometry Dash الأصلية، وتقدم:
-
-☞ إيقاعات موسيقية مثيرة تتزامن بشكل مثالي مع اللعب
-☞ مستويات صعبة ومصممة بإبداع تختبر ردود أفعالك
-☞ مجموعة متنوعة من أوضاع اللعب لإبقائك منخرطًا لساعات
-☞ رسومات مذهلة ورسوم متحركة سلسة تجعل العالم الهندسي نابضًا بالحياة
-
-### ميزات لا مثيل لها في نسخة Geometry Dash غير المحظورة
-
-**1. الوصول الفوري**: قل وداعًا للتنزيلات والتثبيتات. نسخة Geometry Dash غير المحظورة الخاصة بنا تعتمد بالكامل على المتصفح. ما عليك سوى كتابة عنوان URL، وستكون جاهزًا للعب!
-
-**2. تحديثات مستمرة**: نحن ملتزمون بالحفاظ على تجربة اللعب الخاصة بك جديدة. يقوم فريقنا المخصص بتحديث Geometry Dash غير المحظور بانتظام بمستويات وميزات وتحسينات جديدة.
-
-**3. توافق عالمي**: سواء كنت تستخدم جهاز كمبيوتر يعمل بنظام Windows أو Mac أو Chromebook أو حتى جهاز محمول، فإن نسخة Geometry Dash غير المحظورة الخاصة بنا تتكيف بسلاسة مع المنصة التي تختارها.
-
-**4. مركز مجتمع نابض بالحياة**: تواصل مع محبي Geometry Dash غير المحظور الآخرين! شارك أعلى درجاتك، وتبادل استراتيجيات اجتياز المستويات، واعرض المستويات المصممة حسب الطلب.
-
-**5. أمان قوي**: سلامتك هي أولويتنا. يستخدم موقع Geometry Dash غير المحظور الخاص بنا بروتوكولات أمان متطورة لضمان حماية بياناتك وخصوصيتك دائمًا.
-
-**6. تصميم متجاوب**: استمتع بـ Geometry Dash غير المحظور على أي حجم شاشة. تضمن واجهتنا التكيفية تجربة متسقة وممتعة عبر الأجهزة.
-
-**7. وضع عدم الاتصال**: نعم، قرأت ذلك بشكل صحيح! بمجرد التحميل، يمكنك لعب Geometry Dash غير المحظور حتى بدون اتصال بالإنترنت - مثالي للبيئات المقيدة حقًا.
-
-### لماذا تتميز نسخة Geometry Dash غير المحظورة الخاصة بنا؟
-
-في بحر من مواقع الألعاب غير المحظورة، تتألق نسخة Geometry Dash غير المحظورة الخاصة بنا لعدة أسباب:
-
-**1. استقرار لا مثيل له**: مدعومة بتكنولوجيا السحابة المتطورة، توفر خوادمنا تجربة Geometry Dash غير المحظورة خالية من التأخير وسلسة في كل مرة.
-
-**2. تجربة لعب كاملة**: على عكس بعض الإصدارات المبسطة، تتضمن نسخة Geometry Dash غير المحظورة الخاصة بنا كل مستوى وشخصية وميزة من اللعبة الأصلية.
-
-**3. قانوني وأخلاقي**: لقد اتخذنا عناية كبيرة لضمان احترام نسخة Geometry Dash غير المحظورة الخاصة بنا لجميع قوانين حقوق النشر وحقوق الملكية الفكرية.
-
-**4. تصميم يركز على المستخدم**: التنقل في موقع Geometry Dash غير المحظور الخاص بنا أمر سهل. لقد قمنا بتحسين كل جانب من جوانب واجهة المستخدم للعب بديهي.
-
-**5. تجربة خالية من الإعلانات**: استمتع بـ Geometry Dash غير المحظور بدون نوافذ منبثقة مزعجة أو إعلانات متطفلة. نحن نعطي الأولوية لانغماسك في اللعبة.
-
-### البدء مع Geometry Dash غير المحظور
-
-الانضمام إلى عالم Geometry Dash غير المحظور سهل مثل 1-2-3:
-
-1. افتح متصفح الويب المفضل لديك
-2. اكتب عنوان موقع Geometry Dash غير المحظور الخاص بنا
-3. انقر على 'العب الآن' واختر المستوى أو الوضع المطلوب
-4. دع مغامرة Geometry Dash غير المحظور تبدأ!
-
-### انضم إلى مجتمع Geometry Dash غير المحظور المزدهر
-
-في جوهرها، الألعاب تتعلق بالتواصل. تتجاوز منصة Geometry Dash غير المحظورة الخاصة بنا مجرد توفير اللعبة - لقد بنينا مجتمعًا مزدهرًا من اللاعبين المتحمسين. عندما تنضم إلى عائلة Geometry Dash غير المحظورة، ستتمكن من:
-
-- تبادل النصائح والحيل المتقدمة مع اللاعبين ذوي الخبرة
-- المشاركة في بطولات ومسابقات Geometry Dash غير المحظورة المثيرة
-- التعاون في تصميمات المستويات ومشاركة إبداعاتك
-- المشاركة في المنتديات التي تناقش كل ما يتعلق بـ Geometry Dash غير المحظور
-- البقاء على اطلاع بأحدث أخبار وإصدارات ميزات Geometry Dash غير المحظور
-
-### الفوائد التعليمية لـ Geometry Dash غير المحظور
-
-بينما Geometry Dash غير المحظور مسلية بلا شك، فإنها تقدم أيضًا العديد من الفوائد الإدراكية:
-
-- **تحسين التنسيق بين اليد والعين**: الطبيعة سريعة الوتيرة لـ Geometry Dash غير المحظور تساعد على صقل ردود الفعل وتعزيز المهارات الحركية.
-
-- **التعرف على الأنماط**: النجاح في التنقل عبر مستويات Geometry Dash غير المحظور يتطلب مهارات قوية في التعرف على الأنماط، وهي قدرة إدراكية قيمة.
-
-- **المثابرة والمرونة**: الطبيعة التحدي لـ Geometry Dash غير المحظور تعلم اللاعبين قيمة المثابرة والتعلم من الفشل.
-
-- **الإيقاع والتوقيت**: مزامنة الإجراءات مع النبض في Geometry Dash غير المحظور يمكن أن يحسن إحساس اللاعب بالإيقاع والتوقيت.
-
-### الخاتمة: رحلة Geometry Dash غير المحظورة الخاصة بك في انتظارك!
-
-سواء كنت من المعجبين منذ فترة طويلة باللعبة أو جديدًا على عالم التحديات الهندسية، يقدم موقع Geometry Dash غير المحظور الخاص بنا تجربة لعب لا مثيل لها. لقد كسرنا الحواجز، مما يسمح لك بالاستمتاع بـ Geometry Dash متى وأينما تريد.
-
-حان الوقت للشروع في مغامرة Geometry Dash غير المحظورة الخاصة بك! قم بزيارة موقعنا اليوم وانغمس في عالم حيث يلتقي الإيقاع بالتحدي، والمتعة لا حدود لها. في عالم Geometry Dash غير المحظور، حدودك الوحيدة هي السماء - لذا اقفز وطر واندفع نحو المجد الهندسي!
-    `
-  },
-];
 
 export const INSTRUCTIONS_ES = [
   {
@@ -581,7 +486,6 @@ export const ALL_INSTRUCTIONS: INSTRUCTIONSCollection = {
   INSTRUCTIONS_EN,
   INSTRUCTIONS_ZH,
   INSTRUCTIONS_JA,
-  INSTRUCTIONS_AR,
   INSTRUCTIONS_ES,
   INSTRUCTIONS_RU,
 }

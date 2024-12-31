@@ -11,7 +11,7 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { lang } = params;
   return {
-    title: siteConfig.name + " | Geometry-Dash-Subzero",
+    title: siteConfig.name + " | Geometry Dash Subzero",
     alternates: {
       canonical: `${siteConfig.url}${lang}/geometry-dash-subzero/`,
     },
@@ -33,7 +33,7 @@ export default async function Home({
       lang={lang}
       title={titleObj}
       allInstructions={ALL_INSTRUCTIONS}
-      src="https://game.geometry-dash-unblocked.com/Geometry-Dash-Subzero.html"
+      src="https://scratch.mit.edu/projects/216343253/embed"
     />
   );
 }

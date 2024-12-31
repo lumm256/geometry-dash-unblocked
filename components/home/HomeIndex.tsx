@@ -17,7 +17,7 @@ export default async function HomeIndex({ lang }: { lang: string }) {
       <Hero locale={dict.Hero} />
 
       {/* game iframe */}
-      <GameFrame src="https://game.geometry-dash-unblocked.com/Geometry-Dash-Unblocked.html" />
+      <GameFrame src="https://scratch.mit.edu/projects/105500895/embed" />
 
       {/* Showcase */}
       <Showcase id="Showcase" locale={dict.Showcase} langName={langName} />

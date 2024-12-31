@@ -6,16 +6,17 @@ interface GameFrameProps {
 
 const GameFrame: React.FC<GameFrameProps> = ({ src }) => {
   return (
-    <div className="game-frame-container w-full flex justify-center flex-wrap">
-      <iframe
-        src={src}
-        allowFullScreen
-        rel="nofollow"
-        className="mb-4 w-full max-w-[600px] min-h-[400px] px-3"
-      ></iframe>
-      <div className="w-80 mx-5">
-        <span className="font-bold text-xl text-blue-600">Instructions</span>
-        <br />
+    <>
+      <div className="game-frame-container w-full flex justify-center flex-wrap">
+        <iframe
+          src={src}
+          allowFullScreen
+          rel="nofollow"
+          className="mb-4 w-full max-w-[60%] min-h-[600px] px-3"
+        ></iframe>
+      </div>
+      {/* <div className="w-80 mx-5">
+        <span className="font-bold text-xl text-blue-600">How to play</span>
         <br />
         ● Start - [Green Flag] <br />
         ● JUMP - [Space], [W], [Up], [Ctr] or clicking the mouse <br />
@@ -23,10 +24,8 @@ const GameFrame: React.FC<GameFrameProps> = ({ src }) => {
         ● LAG - [L] to toggle the special effects <br />
         ● Restart - [Green Flag] <br />
         <br />
-        Only the top 500 scores are recorded <br />
-        Hope you enjoy!
-      </div>
-    </div>
+      </div> */}
+    </>
   );
 };
 

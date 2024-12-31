@@ -5,15 +5,9 @@ const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
   images: {
-    remotePatterns: [
-      {
-        protocol: 'https',
-        hostname: 'game.geometry-dash-unblocked.com',
-        port: '',
-        pathname: '/*.png',
-      },
-    ],
+    domains: ["uploads.scratch.mit.edu", "cdn2.scratch.mit.edu"],
   },
 };
 
 export default nextConfig;
+

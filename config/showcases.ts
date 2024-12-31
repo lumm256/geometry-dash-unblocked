@@ -14,36 +14,60 @@ export const showcases = [
     title: 'Geometry Dash',
     description: 'Geometry Dash',
     url: '/geometry-dash',
-    og: 'https://game.geometry-dash-unblocked.com/Geometry-Dash.png'
+    og: 'https://cdn2.scratch.mit.edu/get_image/project/105500895_480x360.png'
   },
   {
     title: 'Geometry Dash Meltdown',
     description: 'Geometry Dash Meltdown',
     url: '/geometry-dash-meltdown',
-    og: 'https://game.geometry-dash-unblocked.com/Geometry-Dash-Meltdown.png'
+    og: 'https://cdn2.scratch.mit.edu/get_image/project/319667603_480x360.png'
   },
   {
     title: 'Geometry Dash Subzero',
     description: 'Geometry Dash Subzero',
     url: '/geometry-dash-subzero',
-    og: 'https://game.geometry-dash-unblocked.com/Geometry-Dash-Subzero.png'
+    og: 'https://cdn2.scratch.mit.edu/get_image/project/216343253_480x360.png'
   },
   {
     title: 'Geometry Dash Subzero HACKED',
     description: 'Geometry Dash Subzero HACKED',
     url: '/geometry-dash-subzero-hacked',
-    og: 'https://game.geometry-dash-unblocked.com/Geometry-Dash-Subzero-HACKED.png'
+    og: 'https://cdn2.scratch.mit.edu/get_image/project/301411780_480x360.png'
   },
   {
     title: 'Geometry Dash Cadenza',
     description: 'Geometry Dash Cadenza',
     url: '/geometry-dash-cadenza',
-    og: 'https://game.geometry-dash-unblocked.com/Geometry-Dash-Cadenza.png'
+    og: 'https://cdn2.scratch.mit.edu/get_image/project/356595737_480x360.png'
   },
   {
     title: 'Geometry Dash World Toxic Factory',
     description: 'Geometry Dash World Toxic Factory',
     url: '/geometry-dash-world-toxic-factory',
-    og: 'https://game.geometry-dash-unblocked.com/Geometry-Dash-World-Toxic-Factory.png'
+    og: 'https://cdn2.scratch.mit.edu/get_image/project/224236914_480x360.png'
+  },
+  {
+    title: 'geometry dash wave unblocked',
+    description: 'geometry dash wave unblocked',
+    url: '/geometry-dash-wave-unblocked',
+    og: 'https://uploads.scratch.mit.edu/get_image/project/898033846_480x360.png'
+  },
+  {
+    title: 'geometry dash unblocked 66',
+    description: 'geometry dash unblocked 66',
+    url: '/geometry-dash-unblocked-66',
+    og: 'https://cdn2.scratch.mit.edu/get_image/project/194164289_480x360.png'
+  },
+  {
+    title: 'geometry dash unblocked 76',
+    description: 'geometry dash unblocked 76',
+    url: '/geometry-dash-unblocked-76',
+    og: 'https://cdn2.scratch.mit.edu/get_image/project/915587918_480x360.png'
+  },
+  {
+    title: 'geometry dash 2.2 unblocked',
+    description: 'geometry dash 2.2 unblocked',
+    url: '/geometry-dash-2.2-unblocked',
+    og: 'https://cdn2.scratch.mit.edu/get_image/project/245970184_480x360.png'
   }
 ].concat(ENV_SHOWCASE_LIST)

@@ -11,7 +11,7 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { lang } = params;
   return {
-    title: siteConfig.name + " | Geometry-Dash-Cadenza",
+    title: siteConfig.name + " | Geometry Dash Cadenza",
     alternates: {
       canonical: `${siteConfig.url}${lang}/geometry-dash-cadenza/`,
     },
@@ -33,7 +33,7 @@ export default async function Home({
       lang={lang}
       title={titleObj}
       allInstructions={ALL_INSTRUCTIONS}
-      src="https://game.geometry-dash-unblocked.com/Geometry-Dash-Cadenza.html"
+      src="https://scratch.mit.edu/projects/356595737/embed"
     />
   );
 }

@@ -351,7 +351,7 @@ If you have any questions about these Terms of Service, You can contact us:
     
   `;
   return (
-    <div className="w-full py-8 px-[10%]">
+    <div className="w-full py-8 px-[20%]">
       <ReactMarkdown></ReactMarkdown>
       <ReactMarkdown remarkPlugins={[gfm]}>{content}</ReactMarkdown>
     </div>
