@@ -20,7 +20,7 @@ export default async function HomeIndex({ lang }: { lang: string }) {
       <GameFrame src="https://scratch.mit.edu/projects/105500895/embed" />
 
       {/* Showcase */}
-      <Showcase id="Showcase" locale={dict.Showcase} langName={langName} />
+      <Showcase id="Series" locale={dict.Showcase} langName={langName} />
 
       {/* FAQ (Frequently Asked Questions) */}
       <FAQ id="FAQ" locale={dict.FAQ} langName={langName} />

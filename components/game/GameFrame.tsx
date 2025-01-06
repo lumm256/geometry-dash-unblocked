@@ -12,7 +12,7 @@ const GameFrame: React.FC<GameFrameProps> = ({ src }) => {
           src={src}
           allowFullScreen
           rel="nofollow"
-          className="mb-4 w-full max-w-[60%] min-h-[600px] px-3"
+          className="mb-4 w-full md:max-w-[80%] min-h-[600px] px-3"
         ></iframe>
       </div>
       {/* <div className="w-80 mx-5">
