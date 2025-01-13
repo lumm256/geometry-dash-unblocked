@@ -37,11 +37,13 @@ const baseSiteConfig = {
     {
       name: "PlayXia Games",
       href: "https://www.playxia.com/"
-    },{
+    }, {
+      name: "About",
+      href: "/en/about",
+    }, {
       name: "Privacy Policy",
       href: "/en/privacy-policy",
-    },
-    {
+    }, {
       name: "Terms of Service",
       href: "/en/terms-of-service",
     }

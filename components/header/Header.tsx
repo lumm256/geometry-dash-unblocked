@@ -76,7 +76,7 @@ const Header = () => {
           title="PlayXia Games"
           rel="noopener"
           data-description="PlayXia | Free Online Games - Play 10,000+ Games Instantly"
-          className="tracking-wide transition-colors duration-200 font-normal flex items-center text-blue-500"
+          className="tracking-wide transition-colors duration-200 font-normal flex items-center text-blue-500 ml-4"
         >
           More Games <ExternalLink className="h-4 w-4 ml-1" />
         </a>
