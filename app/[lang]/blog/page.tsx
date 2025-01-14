@@ -1,6 +1,6 @@
 import Blog from "@/components/blog/Blog";
 import { siteConfig } from "@/config/site";
-import { defaultLocale } from "@/lib/i18n";
+import { getAllPosts } from "@/lib/blog";
 import { Metadata } from "next";
 
 // 定义 generateMetadata 函数
@@ -18,11 +18,13 @@ export async function generateMetadata({
   };
 }
 
-function BlogIndex({ params: { lang } }: { params: { lang: string } }) {
-  const langName = lang || defaultLocale;
-
-  return <Blog lang={langName} />;
+export default function BlogIndex({
+  params: { lang },
+}: {
+  params: { lang: string };
+}) {
+  const posts = getAllPosts(lang);
+  console.log(posts);
+  return <Blog lang={lang} posts={posts} />;
 }
-
-export default BlogIndex;
 

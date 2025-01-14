@@ -1,58 +1,58 @@
 "use client";
-import { ALL_FAQS_GAME } from "@/config/faqs-game";
-import { Accordion, AccordionItem } from "@nextui-org/react";
-import { PlusIcon } from "lucide-react";
-import ReactMarkdown from "react-markdown";
+import { BlogPost } from "@/types/blog";
+import { Card, Image } from "@nextui-org/react";
+import Link from "next/link";
 import { RoughNotation } from "react-rough-notation";
-import gfm from "remark-gfm";
 
-// update rough notation highlight
-function triggerResizeEvent() {
-  const event = new Event("resize");
-  window.dispatchEvent(event);
+interface BlogProps {
+  lang: string;
+  posts: BlogPost[];
 }
 
-const Blog = ({ lang }: { lang: string }) => {
-  const FAQSGAME = ALL_FAQS_GAME[`FAQS_${lang.toUpperCase()}`];
-
+const Blog = ({ lang, posts }: BlogProps) => {
   return (
-    <div className="w-full py-8 px-[10%]">
-      <h2 className="text-center text-white">
-        <RoughNotation type="highlight" show={true} color="#2563EB">
-          Blog
-        </RoughNotation>
-      </h2>
-      <p className="text-large text-default-500 my-4 text-center">
-        Questions and issues explained here
-      </p>
-      <Accordion
-        fullWidth
-        keepContentMounted
-        className="gap-3"
-        itemClasses={{
-          base: "px-6 !bg-default-100 !shadow-none hover:!bg-default-200/50",
-          title: "font-medium",
-          trigger: "py-4",
-          content: "pt-0 pb-6 text-base text-default-500",
-        }}
-        items={FAQSGAME}
-        selectionMode="multiple"
-        variant="splitted"
-        onSelectionChange={triggerResizeEvent}
-      >
-        {FAQSGAME?.map((item) => (
-          <AccordionItem
-            key={item.title}
-            indicator={<PlusIcon />}
-            title={item.title}
-            HeadingComponent="h3"
-          >
-            <ReactMarkdown remarkPlugins={[gfm]}>{item.content}</ReactMarkdown>
-          </AccordionItem>
+    <div className="w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      {/* Hero Section */}
+      <div className="text-center py-16 sm:py-20">
+        <h1 className="text-4xl sm:text-5xl font-bold mb-6 text-white">
+          <RoughNotation type="highlight" show={true} color="#2563EB">
+            Geometry Dash Blog
+          </RoughNotation>
+        </h1>
+        <p className="text-xl text-gray-600 dark:text-gray-400 max-w-2xl mx-auto">
+          Tips, tutorials, and updates about Geometry Dash Unblocked
+        </p>
+      </div>
+
+      {/* Blog Posts Grid */}
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-16">
+        {posts.map((post) => (
+          <Link href={`/${lang}/blog/${post.slug}`} key={post.slug}>
+            <Card className="hover:shadow-lg transition-shadow h-full">
+              <Image
+                src={post.coverImage}
+                alt={post.title}
+                className="w-full h-48 object-cover"
+                removeWrapper
+              />
+              <div className="p-4">
+                <h3 className="text-xl font-semibold mb-2">{post.title}</h3>
+                <p className="text-gray-600 dark:text-gray-400 mb-4 line-clamp-3">
+                  {post.excerpt}
+                </p>
+                <div className="flex items-center text-sm text-gray-500 mt-auto">
+                  <span>{post.readingTime}</span>
+                  <span className="mx-2">•</span>
+                  <span>{post.category}</span>
+                </div>
+              </div>
+            </Card>
+          </Link>
         ))}
-      </Accordion>
+      </div>
     </div>
   );
 };
 
 export default Blog;
+
