@@ -14,6 +14,18 @@ module.exports = {
       hreflang: "es",
     },
     {
+      href: "https://geometry-dash-unblocked.com/es/blog/How-to-beat-Geometry-Dash-level-1/",
+      hreflang: "es",
+    },
+    {
+      href: "https://geometry-dash-unblocked.com/es/blog/How-to-get-better-at-Geometry-Dash/",
+      hreflang: "es",
+    },
+    {
+      href: "https://geometry-dash-unblocked.com/es/blog/Should-I-let-my-kid-play-Geometry-Dash/",
+      hreflang: "es",
+    },
+    {
       href: "https://geometry-dash-unblocked.com/es/geometry-dash/",
       hreflang: "es",
     },
@@ -54,6 +66,10 @@ module.exports = {
       hreflang: "es",
     },
     {
+      href: "https://geometry-dash-unblocked.com/es/about/",
+      hreflang: "es",
+    },
+    {
       href: "https://geometry-dash-unblocked.com/es/privacy-policy/",
       hreflang: "es",
     },
@@ -67,6 +83,18 @@ module.exports = {
     },
     {
       href: "https://geometry-dash-unblocked.com/ja/blog/",
+      hreflang: "ja",
+    },
+    {
+      href: "https://geometry-dash-unblocked.com/ja/blog/How-to-beat-Geometry-Dash-level-1/",
+      hreflang: "ja",
+    },
+    {
+      href: "https://geometry-dash-unblocked.com/ja/blog/How-to-get-better-at-Geometry-Dash/",
+      hreflang: "ja",
+    },
+    {
+      href: "https://geometry-dash-unblocked.com/ja/blog/Should-I-let-my-kid-play-Geometry-Dash/",
       hreflang: "ja",
     },
     {
@@ -110,6 +138,10 @@ module.exports = {
       hreflang: "ja",
     },
     {
+      href: "https://geometry-dash-unblocked.com/ja/about/",
+      hreflang: "ja",
+    },
+    {
       href: "https://geometry-dash-unblocked.com/ja/privacy-policy/",
       hreflang: "ja",
     },
@@ -123,6 +155,18 @@ module.exports = {
     },
     {
       href: "https://geometry-dash-unblocked.com/ru/blog/",
+      hreflang: "ru",
+    },
+    {
+      href: "https://geometry-dash-unblocked.com/ru/blog/How-to-beat-Geometry-Dash-level-1/",
+      hreflang: "ru",
+    },
+    {
+      href: "https://geometry-dash-unblocked.com/ru/blog/How-to-get-better-at-Geometry-Dash/",
+      hreflang: "ru",
+    },
+    {
+      href: "https://geometry-dash-unblocked.com/ru/blog/Should-I-let-my-kid-play-Geometry-Dash/",
       hreflang: "ru",
     },
     {
@@ -166,6 +210,10 @@ module.exports = {
       hreflang: "ru",
     },
     {
+      href: "https://geometry-dash-unblocked.com/ru/about/",
+      hreflang: "ru",
+    },
+    {
       href: "https://geometry-dash-unblocked.com/ru/privacy-policy/",
       hreflang: "ru",
     },
@@ -179,6 +227,18 @@ module.exports = {
     },
     {
       href: "https://geometry-dash-unblocked.com/zh/blog/",
+      hreflang: "zh",
+    },
+    {
+      href: "https://geometry-dash-unblocked.com/zh/blog/How-to-beat-Geometry-Dash-level-1/",
+      hreflang: "zh",
+    },
+    {
+      href: "https://geometry-dash-unblocked.com/zh/blog/How-to-get-better-at-Geometry-Dash/",
+      hreflang: "zh",
+    },
+    {
+      href: "https://geometry-dash-unblocked.com/zh/blog/Should-I-let-my-kid-play-Geometry-Dash/",
       hreflang: "zh",
     },
     {
@@ -219,6 +279,10 @@ module.exports = {
     },
     {
       href: "https://geometry-dash-unblocked.com/zh/geometry-dash-wave-unblocked/",
+      hreflang: "zh",
+    },
+    {
+      href: "https://geometry-dash-unblocked.com/zh/about/",
       hreflang: "zh",
     },
     {

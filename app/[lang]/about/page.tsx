@@ -1,11 +1,22 @@
 import { siteConfig } from "@/config/site";
 import { Metadata } from "next";
 
-export const metadata: Metadata = {
-  title: `About - ${siteConfig.name}`,
-  description:
-    "Learn more about Geometry Dash Unblocked - Our story, mission, and commitment to providing free browser-based gaming.",
-};
+// 定义 generateMetadata 函数
+export async function generateMetadata({
+  params,
+}: {
+  params: { lang: string };
+}): Promise<Metadata> {
+  const { lang } = params;
+  return {
+    title: `About - ${siteConfig.name}`,
+    description:
+      "Learn more about Geometry Dash Unblocked - Our story, mission, and commitment to providing free browser-based gaming.",
+    alternates: {
+      canonical: `${siteConfig.url}${lang}/about/`,
+    },
+  };
+}
 
 export default function AboutPage() {
   return (

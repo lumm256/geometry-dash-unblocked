@@ -1,11 +1,22 @@
 import { siteConfig } from "@/config/site";
 import { Metadata } from "next";
 
-export const metadata: Metadata = {
-  title: `Terms of Service - ${siteConfig.name}`,
-  description:
-    "Terms of Service for Geometry Dash Unblocked - Please read these terms carefully before using our service.",
-};
+// 定义 generateMetadata 函数
+export async function generateMetadata({
+  params,
+}: {
+  params: { lang: string };
+}): Promise<Metadata> {
+  const { lang } = params;
+  return {
+    title: `Terms of Service - ${siteConfig.name}`,
+    description:
+      "Terms of Service for Geometry Dash Unblocked - Please read these terms carefully before using our service.",
+    alternates: {
+      canonical: `${siteConfig.url}${lang}/terms-of-service/`,
+    },
+  };
+}
 
 export default function TermsOfServicePage() {
   return (
@@ -181,3 +192,4 @@ export default function TermsOfServicePage() {
     </div>
   );
 }
+

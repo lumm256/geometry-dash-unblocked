@@ -1,11 +1,22 @@
 import { siteConfig } from "@/config/site";
 import { Metadata } from "next";
 
-export const metadata: Metadata = {
-  title: `Privacy Policy - ${siteConfig.name}`,
-  description:
-    "Privacy Policy for Geometry Dash Unblocked - Learn how we collect, use, and protect your information.",
-};
+// 定义 generateMetadata 函数
+export async function generateMetadata({
+  params,
+}: {
+  params: { lang: string };
+}): Promise<Metadata> {
+  const { lang } = params;
+  return {
+    title: `Privacy Policy - ${siteConfig.name}`,
+    description:
+      "Privacy Policy for Geometry Dash Unblocked - Learn how we collect, use, and protect your information.",
+    alternates: {
+      canonical: `${siteConfig.url}${lang}/privacy-policy/`,
+    },
+  };
+}
 
 export default function PrivacyPolicyPage() {
   return (
@@ -165,3 +176,4 @@ export default function PrivacyPolicyPage() {
     </div>
   );
 }
+
