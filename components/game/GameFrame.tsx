@@ -7,12 +7,12 @@ interface GameFrameProps {
 const GameFrame: React.FC<GameFrameProps> = ({ src }) => {
   return (
     <>
-      <div className="game-frame-container w-full flex justify-center flex-wrap">
+      <div className="game-frame-container w-[55%] flex justify-center flex-wrap">
         <iframe
           src={src}
           allowFullScreen
           rel="nofollow"
-          className="mb-4 w-full md:max-w-[80%] min-h-[600px] px-3"
+          className="mb-4 w-full min-h-[600px] px-3"
         ></iframe>
       </div>
       {/* <div className="w-80 mx-5">
