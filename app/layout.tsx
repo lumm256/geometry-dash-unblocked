@@ -52,6 +52,11 @@ export default async function RootLayout({
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2966211794899578"
           crossOrigin="anonymous"
         ></script>
+        <script
+          defer
+          data-domain="geometry-dash-unblocked.com"
+          src="https://click.pageview.click/js/script.js"
+        ></script>
       </head>
       <body
         className={cn(
