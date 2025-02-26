@@ -4,7 +4,7 @@ import { SiBuymeacoffee } from "react-icons/si";
 const baseSiteConfig = {
   name: "Geometry Dash Unblocked",
   description:
-    "Geometry Dash Unblocked: Free online rhythm platformer. Challenge levels, beat rhythms in-browser. Full Version Guide (School & Work Access)",
+    "Geometry Dash Unblocked: Free online rhythm platformer. No downloads. Challenge levels, beat rhythms in-browser. Ad-free, unlimited fun. Play now!",
   url: "https://geometry-dash-unblocked.com/",
   ogImage: "https://geometry-dash-unblocked.com/og.png",
   metadataBase: '/',

@@ -12,8 +12,6 @@ export async function generateMetadata({
   const { lang } = params;
   return {
     title: siteConfig.name + " | Geometry Dash Subzero",
-    description:
-      "Play Geometry Dash SubZero unblocked - 3 unique ice-themed levels with new challenges! Free browser version with practice mode, secret coins, and mobile support.",
     alternates: {
       canonical: `${siteConfig.url}${lang}/geometry-dash-subzero/`,
     },

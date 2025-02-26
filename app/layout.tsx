@@ -19,9 +19,7 @@ export const fontSans = FontSans({
 });
 
 export const metadata = {
-  // title: siteConfig.name,
-  title:
-    "Play Geometry Dash Unblocked: Full Version Guide (School & Work Access)",
+  title: siteConfig.name,
   description: siteConfig.description,
   keywords: siteConfig.keywords,
   alternates: siteConfig.alternates,
