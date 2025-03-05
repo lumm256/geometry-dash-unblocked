@@ -14,8 +14,9 @@ const links = [
   { label: "Series", href: "#Series" },
   // { label: "Testimonials", href: "#Testimonials" },
   { label: "FAQs", href: "#FAQ" },
-  { label: "Instructions", href: "#Instructions" },
-  { label: "Blog", href: "blog" },
+  // { label: "Instructions", href: "#Instructions" },
+  // { label: "Blog", href: "blog" },
+  { label: "CPS Test", href: "cpstest" },
 ];
 
 const Header = () => {
@@ -28,7 +29,7 @@ const Header = () => {
     <header className="py-3 mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
       <nav className="relative z-50 flex justify-between items-center">
         {/* Left section */}
-        <div className="flex items-center md:gap-x-12 flex-1">
+        <div className="flex items-center md:gap-x-12">
           <Link
             href="/"
             aria-label="geometry dash unblocked"
@@ -49,7 +50,7 @@ const Header = () => {
         </div>
 
         {/* Center section - Navigation */}
-        <ul className="hidden md:flex items-center justify-center gap-6 flex-1">
+        <ul className="hidden md:flex items-center justify-center gap-6">
           {links.map((link) => (
             <li key={link.label}>
               <Link
@@ -62,28 +63,29 @@ const Header = () => {
                 }`}
                 aria-label={link.label}
                 title={link.label}
+                target={link.href.startsWith("#") ? "_self" : "_blank"}
                 className="tracking-wide transition-colors duration-200 font-normal"
               >
                 {link.label}
               </Link>
             </li>
           ))}
+          <a
+            href="https://www.playxia.com/"
+            target="_blank"
+            aria-label="PlayXia Games"
+            title="PlayXia Games"
+            rel="noopener"
+            data-description="PlayXia | Free Online Games - Play 10,000+ Games Instantly"
+            className="tracking-wide transition-colors duration-200 font-normal flex items-center text-blue-500 ml-4"
+          >
+            More Games <ExternalLink className="h-4 w-4 ml-1" />
+          </a>
         </ul>
-        <a
-          href="https://www.playxia.com/"
-          target="_blank"
-          aria-label="PlayXia Games"
-          title="PlayXia Games"
-          rel="noopener"
-          data-description="PlayXia | Free Online Games - Play 10,000+ Games Instantly"
-          className="tracking-wide transition-colors duration-200 font-normal flex items-center text-blue-500 ml-4"
-        >
-          More Games <ExternalLink className="h-4 w-4 ml-1" />
-        </a>
 
         {/* Right section */}
-        <div className="hidden md:flex items-center justify-end gap-x-6 flex-1">
-          <HeaderLinks />
+        <div className="hidden md:flex items-center justify-end gap-x-6">
+          {/* <HeaderLinks /> */}
           <ThemedButton />
           <LangSwitcher />
         </div>

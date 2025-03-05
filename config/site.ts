@@ -41,6 +41,9 @@ const baseSiteConfig = {
       name: "About",
       href: "/en/about",
     }, {
+      name: "Blog",
+      href: "/en/blog",
+    }, {
       name: "Privacy Policy",
       href: "/en/privacy-policy",
     }, {
