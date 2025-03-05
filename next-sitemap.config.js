@@ -78,6 +78,10 @@ module.exports = {
       hreflang: "es",
     },
     {
+      href: "https://geometry-dash-unblocked.com/es/cpstest/",
+      hreflang: "es",
+    },
+    {
       href: "https://geometry-dash-unblocked.com/ja/",
       hreflang: "ja",
     },
@@ -147,6 +151,10 @@ module.exports = {
     },
     {
       href: "https://geometry-dash-unblocked.com/ja/terms-of-service/",
+      hreflang: "ja",
+    },
+    {
+      href: "https://geometry-dash-unblocked.com/ja/cpstest/",
       hreflang: "ja",
     },
     {
@@ -222,6 +230,10 @@ module.exports = {
       hreflang: "ru",
     },
     {
+      href: "https://geometry-dash-unblocked.com/ru/cpstest/",
+      hreflang: "ru",
+    },
+    {
       href: "https://geometry-dash-unblocked.com/zh/",
       hreflang: "zh",
     },
@@ -291,6 +303,10 @@ module.exports = {
     },
     {
       href: "https://geometry-dash-unblocked.com/zh/terms-of-service/",
+      hreflang: "zh",
+    },
+    {
+      href: "https://geometry-dash-unblocked.com/zh/cpstest/",
       hreflang: "zh",
     },
   ],
