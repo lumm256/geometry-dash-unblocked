@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(lsof:*)",
+      "Bash(kill:*)",
+      "Bash(rm:*)",
+      "Bash(pnpm install:*)",
+      "Bash(npm run dev:*)",
+      "Bash(npx update-browserslist-db:*)",
+      "Bash(ls:*)",
+      "Bash(pnpm why:*)",
+      "Bash(pnpm update:*)"
+    ],
+    "deny": []
+  }
+}

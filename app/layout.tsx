@@ -16,6 +16,7 @@ import { Inter as FontSans } from "next/font/google";
 export const fontSans = FontSans({
   subsets: ["latin"],
   variable: "--font-sans",
+  display: "swap",
 });
 
 export const metadata = {
@@ -44,6 +45,12 @@ export default async function RootLayout({
   return (
     <html lang={lang || defaultLocale} suppressHydrationWarning>
       <head>
+        {/* DNS Prefetch for faster Scratch loading */}
+        <link rel="dns-prefetch" href="//scratch.mit.edu" />
+        <link rel="dns-prefetch" href="//cdn2.scratch.mit.edu" />
+        <link rel="dns-prefetch" href="//uploads.scratch.mit.edu" />
+        <link rel="preconnect" href="https://scratch.mit.edu" />
+        
         <meta name="google-adsense-account" content="ca-pub-2966211794899578" />
         <script
           async
@@ -51,7 +58,7 @@ export default async function RootLayout({
           crossOrigin="anonymous"
         ></script>
         <script
-          defer
+          async
           data-domain="geometry-dash-unblocked.com"
           src="https://click.pageview.click/js/script.js"
         ></script>

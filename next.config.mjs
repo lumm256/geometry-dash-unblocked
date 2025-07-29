@@ -5,7 +5,13 @@ const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
   images: {
-    domains: ["uploads.scratch.mit.edu", "cdn2.scratch.mit.edu"],
+    unoptimized: true,
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "images.geometry-dash-lite.org",
+      },
+    ],
   },
 };
 
