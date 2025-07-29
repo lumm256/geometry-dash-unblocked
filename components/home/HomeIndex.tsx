@@ -1,4 +1,4 @@
-import GameFrame from "@/components/game/GameFrame";
+import GameSection from "@/components/game/GameSection";
 import CTA from "@/components/home/CTA";
 import FAQ from "@/components/home/FAQ";
 import Hero from "@/components/home/Hero";
@@ -16,8 +16,11 @@ export default async function HomeIndex({ lang }: { lang: string }) {
       {/* Hero Section */}
       <Hero locale={dict.Hero} />
 
-      {/* game iframe */}
-      <GameFrame src="https://scratch.mit.edu/projects/105500895/embed" />
+      {/* Game Section with sidebar */}
+      <GameSection 
+        mainGameSrc="https://scratch.mit.edu/projects/105500895/embed"
+        langName={langName}
+      />
 
       {/* Showcase */}
       <Showcase id="Series" locale={dict.Showcase} langName={langName} />

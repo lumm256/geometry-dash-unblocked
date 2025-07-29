@@ -67,10 +67,10 @@ const GameFrame: React.FC<GameFrameProps> = ({ src }) => {
     <>
       <div
         ref={iframeRef}
-        className="game-frame-container w-[85%] flex justify-startflex-wrap"
+        className="game-frame-container w-full flex justify-startflex-wrap"
       >
         {!isVisible ? (
-          <div className="mb-4 w-full md:max-w-[760px] min-h-[600px] px-3 bg-gray-100 dark:bg-gray-800 rounded-lg flex items-center justify-center">
+          <div className="mb-4 w-full md:max-w-[860px] min-h-[600px] px-3 bg-gray-100 dark:bg-gray-800 rounded-lg flex items-center justify-center">
             <div className="text-center">
               <div className="animate-pulse text-gray-500 dark:text-gray-400">
                 🎮 Game loading...
@@ -78,7 +78,7 @@ const GameFrame: React.FC<GameFrameProps> = ({ src }) => {
             </div>
           </div>
         ) : !gameStarted ? (
-          <div className="mb-4 w-full md:max-w-[760px] min-h-[600px] px-3 bg-gradient-to-br from-blue-50 to-purple-50 dark:from-blue-900/20 dark:to-purple-900/20 rounded-lg flex items-center justify-center border-2 border-dashed border-blue-200 dark:border-blue-700">
+          <div className="mb-4 w-full md:max-w-[860px] min-h-[600px] px-3 bg-gradient-to-br from-blue-50 to-purple-50 dark:from-blue-900/20 dark:to-purple-900/20 rounded-lg flex items-center justify-center border-2 border-dashed border-blue-200 dark:border-blue-700">
             <div className="text-center">
               <div className="text-6xl mb-4">🎮</div>
               <h3 className="text-2xl font-bold mb-3 text-gray-800 dark:text-gray-200">
@@ -109,11 +109,11 @@ const GameFrame: React.FC<GameFrameProps> = ({ src }) => {
               allow="autoplay; microphone; camera; fullscreen"
               referrerPolicy="strict-origin-when-cross-origin"
               onLoad={() => setIsLoaded(true)}
-              className="mb-4 w-full md:max-w-[760px] min-h-[600px] px-3"
+              className="mb-4 w-full md:max-w-[860px] min-h-[600px] px-3"
               style={{ display: isLoaded ? "block" : "none" }}
             ></iframe>
             {!isLoaded && (
-              <div className="mb-4 w-full md:max-w-[760px] min-h-[600px] px-3 bg-gray-100 dark:bg-gray-800 rounded-lg flex items-center justify-center">
+              <div className="mb-4 w-full md:max-w-[860px] min-h-[600px] px-3 bg-gray-100 dark:bg-gray-800 rounded-lg flex items-center justify-center">
                 <div className="text-center">
                   <div className="animate-spin text-4xl mb-4">⚡</div>
                   <div className="text-lg text-gray-600 dark:text-gray-400 mb-2">
