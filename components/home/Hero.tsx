@@ -18,7 +18,7 @@ const Hero = ({ locale }: { locale: any }) => {
           },
         }}
       > */}
-      <section className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 pb-8 text-center">
+      <section className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 pb-4 text-center">
         <h1>
           {locale.title1} <LineText>{locale.title2}</LineText> {locale.title3}
         </h1>
