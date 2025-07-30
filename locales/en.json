@@ -46,5 +46,16 @@
   },
   "CTAButton": {
     "title": "Play the game"
+  },
+  "NotFound": {
+    "title": "Oops! Page Not Found",
+    "subtitle": "The page you're looking for doesn't exist or has been moved.",
+    "description": "Don't worry! Here are some popular games and pages to help you find what you're looking for:",
+    "popularGames": "Popular Games",
+    "quickLinks": "Quick Links",
+    "searchSuggestion": "You might be looking for:",
+    "backHome": "Back to Home",
+    "reportIssue": "Report Issue",
+    "gameKeywords": "geometry dash unblocked, rhythm games, platformer games"
   }
 }

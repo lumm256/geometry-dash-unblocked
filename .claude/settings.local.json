@@ -9,7 +9,8 @@
       "Bash(npx update-browserslist-db:*)",
       "Bash(ls:*)",
       "Bash(pnpm why:*)",
-      "Bash(pnpm update:*)"
+      "Bash(pnpm update:*)",
+      "Bash(npm run build:*)"
     ],
     "deny": []
   }

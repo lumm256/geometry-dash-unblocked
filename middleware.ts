@@ -1,18 +1,32 @@
 import { locales } from "./lib/i18n";
-
-import { NextRequest } from "next/server";
+import { NextRequest, NextResponse } from "next/server";
 
 export function middleware(request: NextRequest) {
   const { pathname } = request.nextUrl;
 
-  const isExit = locales.some(
+  // Check if path is valid locale path
+  const isValidLocalePath = locales.some(
     (locale) => pathname.startsWith(`/${locale}/`) || pathname === `/${locale}`
   );
 
-  if (isExit) return;
+  // If it's a valid locale path, continue
+  if (isValidLocalePath) {
+    const response = NextResponse.next();
+    response.headers.set('x-pathname', pathname);
+    return response;
+  }
 
-  request.nextUrl.pathname = `/`;
-  return Response.redirect(request.nextUrl);
+  // If it's root path, continue
+  if (pathname === '/') {
+    const response = NextResponse.next();
+    response.headers.set('x-pathname', pathname);
+    return response;
+  }
+
+  // For all other paths, add pathname header for 404 page language detection
+  const response = NextResponse.next();
+  response.headers.set('x-pathname', pathname);
+  return response;
 }
 
 export const config = {

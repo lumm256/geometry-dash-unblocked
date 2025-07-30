@@ -46,5 +46,16 @@
   },
   "CTAButton": {
     "title": "Jugar el juego"
+  },
+  "NotFound": {
+    "title": "¡Ups! Página no encontrada",
+    "subtitle": "La página que buscas no existe o ha sido movida.",
+    "description": "¡No te preocupes! Aquí tienes algunos juegos populares y páginas para ayudarte a encontrar lo que buscas:",
+    "popularGames": "Juegos Populares",
+    "quickLinks": "Enlaces Rápidos",
+    "searchSuggestion": "Puede que estés buscando:",
+    "backHome": "Volver al Inicio",
+    "reportIssue": "Reportar Problema",
+    "gameKeywords": "geometry dash desbloqueado, juegos de ritmo, juegos de plataforma"
   }
 }

@@ -46,5 +46,16 @@
   },
   "CTAButton": {
     "title": "ゲームをプレイ"
+  },
+  "NotFound": {
+    "title": "おっと！ページが見つかりません",
+    "subtitle": "お探しのページは存在しないか、移動されました。",
+    "description": "ご心配なく！人気のゲームやページリンクをご紹介します：",
+    "popularGames": "人気ゲーム",
+    "quickLinks": "クイックリンク",
+    "searchSuggestion": "お探しのものは：",
+    "backHome": "ホームに戻る",
+    "reportIssue": "問題を報告",
+    "gameKeywords": "ジオメトリダッシュ, リズムゲーム, プラットフォーマー"
   }
 }

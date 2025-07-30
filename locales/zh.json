@@ -46,5 +46,16 @@
   },
   "CTAButton": {
     "title": "开始游戏"
+  },
+  "NotFound": {
+    "title": "糟糕！页面未找到",
+    "subtitle": "您寻找的页面不存在或已被移动。",
+    "description": "别担心！这里有一些热门游戏和页面链接，帮您找到想要的内容：",
+    "popularGames": "热门游戏",
+    "quickLinks": "快速链接",
+    "searchSuggestion": "您可能在寻找：",
+    "backHome": "返回首页",
+    "reportIssue": "报告问题",
+    "gameKeywords": "几何冲刺无限制版, 节奏游戏, 平台游戏"
   }
 }
