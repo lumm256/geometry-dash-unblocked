@@ -1,4 +1,4 @@
-import GameFrame from "@/components/game/GameFrame";
+import GameSection from "@/components/game/GameSection";
 import Hero from "@/components/home/Hero";
 import Instructions from "@/components/home/Instructions";
 import { defaultLocale, getDictionary } from "@/lib/i18n";
@@ -23,7 +23,10 @@ async function GameDetail({
       <Hero locale={title} />
 
       {/* game iframe */}
-      <GameFrame src={src} />
+      {/* <GameFrame src={src} /> */}
+
+      {/* Game Section with sidebar */}
+      <GameSection mainGameSrc={src} langName={langName} />
 
       {/* Instructions */}
       <Instructions
