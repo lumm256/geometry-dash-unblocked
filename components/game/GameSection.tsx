@@ -27,19 +27,19 @@ const GameSection: React.FC<GameSectionProps> = ({ mainGameSrc, langName }) => {
         {/* Game Sidebar */}
         <div className="lg:flex-[1] lg:max-w-[320px] xl:max-w-[350px]">
           <div className="lg:sticky lg:top-8">
-            <div className="flex items-center justify-between mb-6">
-              <h3 className="text-2xl font-bold text-gray-900 dark:text-white">
+            <div className="flex items-center justify-between">
+              <h2 className="text-2xl font-bold text-gray-900 dark:text-white">
                 More Games
-              </h3>
+              </h2>
               <Link
-                href={`/${langName}#Series`}
+                href={`/${langName === "en" ? "" : langName}#Series`}
                 className="text-blue-600 dark:text-blue-400 hover:text-blue-700 dark:hover:text-blue-300 text-sm font-medium flex items-center gap-1 transition-colors"
               >
                 View All <ExternalLink className="w-3 h-3" />
               </Link>
             </div>
 
-            <div className="grid grid-cols-2 lg:grid-cols-2 gap-3">
+            <div className="grid grid-cols-3 md:grid-cols-3 lg:grid-cols-2 xl:grid-cols-2 gap-3">
               {otherGames.map((game) => (
                 <CompactGameCard
                   key={game.url}

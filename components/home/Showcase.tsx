@@ -43,7 +43,7 @@ const Showcase = async ({
         More Games <ExternalLink className="h-4 w-4 ml-1" />
       </a>
       <Spacer y={8} />
-      <div className="grid grid-cols-1 gap-4 md:grid-cols-2 xl:grid-cols-3 justify-items-center">
+      <div className="grid gap-4 grid-cols-3 md:grid-cols-4 lg:grid-cols-4 xl:grid-cols-6 justify-items-center">
         {sites.map((site) => (
           <WebsiteCard langName={langName} key={site.url} {...site} />
         ))}

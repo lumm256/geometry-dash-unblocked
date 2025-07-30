@@ -81,9 +81,9 @@ const GameFrame: React.FC<GameFrameProps> = ({ src }) => {
           <div className="mb-4 w-full md:max-w-[860px] min-h-[600px] px-3 bg-gradient-to-br from-blue-50 to-purple-50 dark:from-blue-900/20 dark:to-purple-900/20 rounded-lg flex items-center justify-center border-2 border-dashed border-blue-200 dark:border-blue-700">
             <div className="text-center">
               <div className="text-6xl mb-4">🎮</div>
-              <h3 className="text-2xl font-bold mb-3 text-gray-800 dark:text-gray-200">
+              <p className="text-2xl font-bold mb-3 text-gray-800 dark:text-gray-200">
                 Ready to Play?
-              </h3>
+              </p>
               <p className="text-gray-600 dark:text-gray-400 mb-6 max-w-md">
                 Click the button below to start the game and enable audio
               </p>
