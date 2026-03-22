@@ -1,0 +1,24 @@
+{
+  "categories": [
+    {
+      "id": "geometry-dash",
+      "name": "Geometry Dash",
+      "slug": "geometry-dash",
+      "description": "All Geometry Dash games unblocked - play free online versions including original, subzero, meltdown, wave, and more!",
+      "icon": "🎮",
+      "color": "#4F46E5",
+      "gameIds": [
+        "geometry-dash-unblocked",
+        "geometry-dash-unblocked-76",
+        "geometry-dash-unblocked-66",
+        "geometry-dash-subzero",
+        "geometry-dash-subzero-hacked",
+        "geometry-dash-wave-unblocked",
+        "geometry-dash-meltdown",
+        "geometry-dash-cadenza",
+        "geometry-dash-world-toxic-factory",
+        "geometry-dash-2-2-unblocked"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "site": {
+    "name": "Geometry Dash Unblocked - Play Free Online Browser Game",
+    "shortName": "Geometry Dash Unblocked",
+    "description": "Play Geometry Dash Unblocked online for free! Jump, fly, and flip through dangerous passages in this rhythm-based browser game. No download needed - play instantly at school, work, or anywhere!",
+    "url": "https://geometry-dash-unblocked.com/",
+    "contactEmail": "contact@geometry-dash-unblocked.com",
+    "logo": "/images/logo.png",
+    "favicon": "/favicon.ico",
+    "ogImage": "https://geometry-dash-unblocked.com/og.png"
+  },
+  "analytics": {
+    "googleAnalyticsId": "G-7BJ814GFSK"
+  },
+  "features": {
+    "enableFavorites": true,
+    "enableAnalytics": true,
+    "enableThemeToggle": true
+  },
+  "homepage": {
+    "mainGame": "geometry-dash-unblocked",
+    "popularGames": [
+      "geometry-dash-unblocked-76",
+      "geometry-dash-unblocked-66",
+      "geometry-dash-subzero",
+      "geometry-dash-meltdown",
+      "geometry-dash-wave-unblocked",
+      "geometry-dash-2-2-unblocked"
+    ],
+    "newGames": [
+      "geometry-dash-cadenza",
+      "geometry-dash-world-toxic-factory",
+      "geometry-dash-subzero-hacked"
+    ],
+    "hotGames": [
+      "geometry-dash-unblocked",
+      "geometry-dash-unblocked-76",
+      "geometry-dash-subzero",
+      "geometry-dash-wave-unblocked"
+    ]
+  },
+  "navigation": {
+    "topItems": [
+      {
+        "type": "page",
+        "id": "all-games",
+        "title": "All Games",
+        "url": "/all-games/"
+      },
+      {
+        "type": "page",
+        "id": "blog",
+        "title": "Blog",
+        "url": "/blog/"
+      }
+    ]
+  },
+  "footer": {
+    "links": [
+      {
+        "title": "About Us",
+        "url": "/about/",
+        "external": false
+      },
+      {
+        "title": "Contact Us",
+        "url": "/contact/",
+        "external": false
+      },
+      {
+        "title": "Privacy Policy",
+        "url": "/privacy/",
+        "external": false
+      },
+      {
+        "title": "Terms of Service",
+        "url": "/terms/",
+        "external": false
+      }
+    ],
+    "copyright": "© 2026 Geometry Dash Unblocked. All rights reserved."
+  }
+}

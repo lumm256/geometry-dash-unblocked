@@ -1,18 +1,17 @@
-## Running Locally
+# Geometry Dash Unblocked
 
-After cloning the repo, you need to copy the `.env.example` file to create a `.env` file and fill in the required fields.
+Play Geometry Dash Unblocked online for free at [geometry-dash-unblocked.com](https://geometry-dash-unblocked.com/)
 
-Then, run the application in the command line and it will be available at `http://localhost:3000`.
+## Tech Stack
+- Next.js 14 (Static Export)
+- Tailwind CSS
+- GitHub Pages
 
+## Development
 ```bash
+npm install
 npm run dev
 ```
 
-## Build Your Project
-
-Edit these files:
-- `.env` or `.env.local`
-- `config/site.ts`, fill in your website information.
-- `public`, change logo file
-- `public/robots.txt`
-- `app/sitemap.ts`
+## Deployment
+Automatically deploys to GitHub Pages via GitHub Actions on push to `main`.
