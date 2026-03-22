@@ -23,7 +23,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 export async function generateStaticParams() {
   const posts = getAllPostSlugs();
-  return posts;
+  const langs = ["en", "zh", "ja", "es", "ru"];
+  return langs.flatMap((lang) =>
+    posts.map((p) => ({ lang, slug: p.params.slug }))
+  );
 }
 
 export default function BlogPost({ params }: Props) {
