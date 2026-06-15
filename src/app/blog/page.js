@@ -4,13 +4,13 @@ import blogData from '../../data/blog.json';
 const { blogPosts } = blogData;
 
 export const metadata = {
-  title: 'Gaming Blog - Tips, Reviews & Rankings | Game Hub',
+  title: 'Gaming Blog - Tips, Reviews & Rankings | Geometry Dash Unblocked',
   description: 'Discover game reviews, professional tips, rankings and latest gaming news. Expert insights on browser games, strategy guides and gaming trends.',
   openGraph: {
     title: 'Gaming Blog - Tips, Reviews & Rankings',
     description: 'Expert gaming content: reviews, tips, rankings and news',
     type: 'website',
-    url: 'https://geometry-dash-lite.org/blog',
+    url: 'https://geometry-dash-unblocked.com/blog',
   }
 };
 
@@ -41,20 +41,20 @@ export default function BlogPage() {
     "@type": "Blog",
     "name": "Gaming Blog - Tips, Reviews & Rankings",
     "description": "Expert gaming content: reviews, tips, rankings and news",
-    "url": "https://geometry-dash-lite.org/blog/",
+    "url": "https://geometry-dash-unblocked.com/blog/",
     "publisher": {
       "@type": "Organization",
-      "name": "Game Hub",
+      "name": "Geometry Dash Unblocked",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://geometry-dash-lite.org/images/logo.png"
+        "url": "https://geometry-dash-unblocked.com/images/logo.png"
       }
     },
     "blogPost": featuredPosts.map(post => ({
       "@type": "BlogPosting",
       "headline": post.title,
       "description": post.excerpt,
-      "url": `https://geometry-dash-lite.org/blog/${post.slug}/`,
+      "url": `https://geometry-dash-unblocked.com/blog/${post.slug}/`,
       "datePublished": post.publishDate,
       "author": {
         "@type": "Person",

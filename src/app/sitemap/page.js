@@ -24,7 +24,6 @@ export default function SitemapPage() {
   const staticPages = [
     { title: 'Home', url: '/', description: 'Explore the best online games', icon: '🏠' },
     { title: 'Blog', url: '/blog/', description: 'Gaming tips, reviews and rankings', icon: '📝' },
-    { title: 'Geometry Dash Demon List', url: '/geometry-dash-demon-list/', description: 'Official demon difficulty rankings', icon: '👹' },
     { title: 'All Games', url: '/all-games/', description: 'Browse all available games', icon: '🎮' },
     { title: 'About Us', url: '/about/', description: 'Learn about our mission and team', icon: 'ℹ️' },
     { title: 'Contact Us', url: '/contact/', description: 'Get in touch with us', icon: '📧' },

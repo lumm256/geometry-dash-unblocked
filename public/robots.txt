@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://geometry-dash-unblocked.com/sitemap.xml

@@ -38,7 +38,7 @@ export async function generateMetadata({ params }) {
       title: post.title,
       description: post.excerpt,
       type: 'article',
-      url: `https://geometry-dash-lite.org/blog/${post.slug}/`,
+      url: `https://geometry-dash-unblocked.com/blog/${post.slug}/`,
       images: [
         {
           url: post.thumbnail,
@@ -125,22 +125,22 @@ export default async function BlogPostPage({ params }) {
     },
     "publisher": {
       "@type": "Organization",
-      "name": "Game Hub",
+      "name": "Geometry Dash Unblocked",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://geometry-dash-lite.org/images/logo.png"
+        "url": "https://geometry-dash-unblocked.com/images/logo.png"
       }
     },
     "datePublished": post.publishDate,
     "dateModified": post.publishDate,
     "image": post.thumbnail,
-    "url": `https://geometry-dash-lite.org/blog/${post.slug}/`,
+    "url": `https://geometry-dash-unblocked.com/blog/${post.slug}/`,
     "keywords": post.tags.join(", "),
     "articleSection": post.category,
     "wordCount": post.readTime * 200, // 估算字数
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": `https://geometry-dash-lite.org/blog/${post.slug}/`
+      "@id": `https://geometry-dash-unblocked.com/blog/${post.slug}/`
     }
   };
 
@@ -197,7 +197,7 @@ export default async function BlogPostPage({ params }) {
             <div className="flex items-center space-x-2">
               <span className="text-sm text-gray-600 dark:text-gray-300">Share:</span>
               <a 
-                href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(post.title)}&url=${encodeURIComponent(`https://geometry-dash-lite.org/blog/${post.slug}/`)}`}
+                href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(post.title)}&url=${encodeURIComponent(`https://geometry-dash-unblocked.com/blog/${post.slug}/`)}`}
                 className="text-blue-500 hover:text-blue-700 text-sm font-medium"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -206,7 +206,7 @@ export default async function BlogPostPage({ params }) {
               </a>
               <span className="text-gray-300 dark:text-gray-600">|</span>
               <a 
-                href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(`https://geometry-dash-lite.org/blog/${post.slug}/`)}`}
+                href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(`https://geometry-dash-unblocked.com/blog/${post.slug}/`)}`}
                 className="text-blue-600 hover:text-blue-800 text-sm font-medium"
                 target="_blank"
                 rel="noopener noreferrer"

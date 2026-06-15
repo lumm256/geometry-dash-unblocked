@@ -157,54 +157,6 @@ const LazyGameSection = ({
 
 
 
-      {/* Demon List Section */}
-      <div className="mt-8">
-        <div className="flex items-center justify-between mb-6">
-          <h2 className="text-2xl font-bold text-gray-900 dark:text-white text-left">🏆 Extreme Challenge Rankings</h2>
-          <a 
-            href="/geometry-dash-demon-list/"
-            className="text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 font-medium text-sm transition-colors"
-          >
-            View Complete List →
-          </a>
-        </div>
-        <div className="bg-blue-50 dark:bg-blue-900/20 rounded-lg p-3 mb-4">
-          <p className="text-gray-700 dark:text-gray-300 text-sm">
-            ⚡ Discover the most challenging gaming achievements and competitive leaderboards!
-          </p>
-        </div>
-        
-        {/* Featured Rankings */}
-        <div className="grid grid-cols-1 md:grid-cols-1 gap-6">
-          <div className="bg-white dark:bg-slate-800 rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow">
-            <div className="p-6">
-              <div className="flex items-center justify-between mb-3">
-                <span className="px-3 py-1 text-sm text-white rounded-full bg-purple-600">
-                  EXTREME DIFFICULTY
-                </span>
-                <span className="text-sm text-gray-500 dark:text-gray-400">
-                  50 Demons Listed
-                </span>
-              </div>
-              <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-2">
-                <a href="/geometry-dash-demon-list/" className="hover:text-blue-600 transition-colors">
-                  Geometry Dash Demon List 2026
-                </a>
-              </h3>
-              <p className="text-gray-600 dark:text-gray-300 mb-4">
-                The official ranking of the most challenging extreme demon levels that push human skill to absolute limits.
-              </p>
-              <a 
-                href="/geometry-dash-demon-list/"
-                className="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg font-medium text-sm transition-colors inline-block"
-              >
-                View Demon List →
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-
       {/* Blog Articles Section */}
       <div className="mt-8">
         <div className="flex items-center justify-between mb-6">
@@ -224,7 +176,7 @@ const LazyGameSection = ({
         
         {/* Featured Blog Posts Grid */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {blogPosts.filter(post => post.published !== false).slice(0, 3).map((post) => (
+          {blogPosts.filter(post => post.published !== false).sort((a, b) => new Date(b.publishDate) - new Date(a.publishDate)).slice(0, 3).map((post) => (
             <BlogPost 
               key={post.slug} 
               post={post} 

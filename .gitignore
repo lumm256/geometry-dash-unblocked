@@ -125,6 +125,5 @@ dist
 
 /.vuepress/dist/
 
-# sitemap
+# sitemap (generated into out/ at build time)
 */sitemap*.xml
-*/robots.txt
