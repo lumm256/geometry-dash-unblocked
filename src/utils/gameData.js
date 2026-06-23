@@ -45,10 +45,30 @@ export const getRelatedGames = (gameId, excludeId = null) => {
     return [];
   }
   
-  const relatedGames = gamesData.games.filter(g => 
+  const relatedGames = gamesData.games.filter(g =>
     game.relatedGameIds.includes(g.id) && g.id !== excludeId
   );
   return sortGamesByPriority(relatedGames);
+};
+
+// 精选相关游戏（relatedGameIds 优先），不足 count 时按优先级回填，绝不含自身或重复
+export const getRelatedGamesWithFallback = (gameId, count = 6) => {
+  const curated = getRelatedGames(gameId, gameId);
+  if (curated.length >= count) return curated.slice(0, count);
+
+  const usedIds = new Set([gameId, ...curated.map(g => g.id)]);
+  const fillers = sortGamesByPriority(
+    gamesData.games.filter(g => !usedIds.has(g.id))
+  );
+  return [...curated, ...fillers].slice(0, count);
+};
+
+// 第二个发现模块：排除自身与已展示的游戏，避免同一页面里两个模块重复出现
+export const getMoreGamesExcluding = (excludeIds = [], count = 12) => {
+  const usedIds = new Set(excludeIds);
+  return sortGamesByPriority(
+    gamesData.games.filter(g => !usedIds.has(g.id))
+  ).slice(0, count);
 };
 
 // 搜索游戏

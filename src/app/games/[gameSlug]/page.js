@@ -7,10 +7,10 @@ import { GameGrid, SidebarGameList } from '../../../components/GameCard';
 import { GameDescription } from '../../../components/Layout';
 import { Breadcrumb } from '../../../components/Navigation';
 import GameGuide from '../../../components/GameGuide';
-import { 
-  getGameBySlug, 
-  getRandomGames,
-  generateGameMetadata 
+import {
+  getGameBySlug,
+  getRelatedGamesWithFallback,
+  getMoreGamesExcluding
 } from '../../../utils/gameData';
 import { generateGamePageMetadata, generateGameStructuredData } from '../../../utils/seoUtils';
 
@@ -95,9 +95,9 @@ export default async function GamePage({ params }) {
     notFound();
   }
 
-  // 获取相关游戏
-  const relatedGames = getRandomGames(6, game.id);
-  const moreGames = getRandomGames(12, game.id);
+  // 相关游戏：精选优先、自动回填；两个发现模块互不重复（小目录下也不会同页重复）
+  const relatedGames = getRelatedGamesWithFallback(game.id, 6);
+  const moreGames = getMoreGamesExcluding([game.id, ...relatedGames.map(g => g.id)], 12);
 
   // 加载攻略内容
   const guideContent = await loadGuideContent(game.guideFile);
@@ -145,12 +145,14 @@ export default async function GamePage({ params }) {
         <Breadcrumb items={breadcrumbItems} className="mt-6" />
 
         {/* More Games Grid */}
-        <div className="mt-6">
-          <div className="flex items-center justify-between mb-6">
-            <h2 className="text-2xl font-bold text-gray-900 dark:text-white">🕹️ You May Also Like</h2>
+        {moreGames.length > 0 && (
+          <div className="mt-6">
+            <div className="flex items-center justify-between mb-6">
+              <h2 className="text-2xl font-bold text-gray-900 dark:text-white">🕹️ Play These Next</h2>
+            </div>
+            <GameGrid games={moreGames} />
           </div>
-          <GameGrid games={moreGames} />
-        </div>
+        )}
 
         {/* Game Description */}
         <div className="mt-8">
