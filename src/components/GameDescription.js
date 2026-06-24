@@ -55,20 +55,27 @@ const GameDescription = ({ game, className = '', hideTitle = false }) => {
         </div>
 
         {/* How to Play */}
-        {game.controls && game.controls.length > 0 && (
+        {game.controls && Object.keys(game.controls).length > 0 && (
           <div className="mb-6">
             <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-3 text-left">🎮 How to Play</h3>
-            <div className="bg-gray-50 dark:bg-slate-700 rounded-lg p-4">
-              <ul className="space-y-2">
-                {game.controls.map((control, index) => (
-                  <li key={index} className="flex items-start text-left">
-                    <span className="flex-shrink-0 w-5 h-5 bg-blue-500 dark:bg-blue-600 text-white rounded-full flex items-center justify-center text-xs font-bold mr-2 mt-0.5">
-                      {index + 1}
-                    </span>
-                    <span className="text-gray-700 dark:text-gray-300 text-sm">{control}</span>
-                  </li>
+            <div className="bg-gray-50 dark:bg-slate-700 rounded-lg p-4 space-y-4">
+              {Object.entries(game.controls)
+                .filter(([, list]) => Array.isArray(list) && list.length > 0)
+                .map(([category, list]) => (
+                  <div key={category}>
+                    <h4 className="text-sm font-semibold text-gray-900 dark:text-white mb-2 capitalize">{category}</h4>
+                    <ul className="space-y-2">
+                      {list.map((control, index) => (
+                        <li key={index} className="flex items-start text-left">
+                          <span className="flex-shrink-0 w-5 h-5 bg-blue-500 dark:bg-blue-600 text-white rounded-full flex items-center justify-center text-xs font-bold mr-2 mt-0.5">
+                            {index + 1}
+                          </span>
+                          <span className="text-gray-700 dark:text-gray-300 text-sm">{control}</span>
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
                 ))}
-              </ul>
             </div>
           </div>
         )}
